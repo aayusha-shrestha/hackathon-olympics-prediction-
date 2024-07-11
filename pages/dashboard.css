@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic);
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(109.6deg, rgb(177, 173, 219) 11.2%, rgb(245, 226, 226) 91.1%);
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #ddd;
+}
+
+h2,
+h3,
+h4 {
+  font-weight: 300;
+  margin: 0;
+}
+
+/* Navigation */
+.navigation {
+  position: fixed;
+  width: 200px;
+  height: 92vh;
+  top: 20px;
+  left: 20px;
+  background: #987D9A;
+  color: #ddd;
+  border-radius: 15px;
+}
+
+.navigation ul {
+  list-style: none;
+}
+
+.navigation li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.navigation li a {
+  display: block;
+  padding: 0.7em;
+}
+
+.navigation li a:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
