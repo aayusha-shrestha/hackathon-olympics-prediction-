@@ -51,7 +51,7 @@ h4 {
 }
 
 .main-content {
-  margin-left: 200px;
+  margin-left: 100px;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -60,14 +60,14 @@ h4 {
 }
 
 .content-box {
-  width: 80%;
-  height: 80%;
+  width: 89%;
+  height: 92%;
   background-color: white;
   display: none;
   justify-content: center;
   align-items: center;
   border-radius: 10px;
   position: absolute;
-  top: 10%;
+  top: 2%;
   left: 10%;
 }
