@@ -51,7 +51,7 @@ h4 {
 }
 
 .main-content {
-  margin-left: 100px;
+  margin-left: 90px;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -70,4 +70,20 @@ h4 {
   position: absolute;
   top: 2%;
   left: 10%;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.content-box_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 80px;
+}
+
+.content-img {
+  margin-right: 20px;
+}
+
+.content-img img {
+  width: 550px;
 }
