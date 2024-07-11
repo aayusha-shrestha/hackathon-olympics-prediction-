@@ -1,0 +1,30 @@
+Year,Host_City,Total Countries,Total Sports,Total Events,Host_Country
+1896,Athina,12,9,43,Greece
+1900,Paris,31,20,90,France
+1904,St. Louis,14,18,95,USA
+1906,Athina,20,13,74,Greece
+1908,London,22,24,109,UK
+1912,Stockholm,29,17,107,Sweden
+1920,Antwerpen,29,25,158,Belgium
+1924,Paris,45,20,131,France
+1928,Amsterdam,46,17,122,Netherlands
+1932,Los Angeles,47,18,131,USA
+1936,Berlin,49,24,150,Germany
+1948,London,59,20,153,UK
+1952,Helsinki,67,19,149,Finland
+1956,Melbourne,66,18,145,Australia
+1960,Roma,83,19,150,Italy
+1964,Tokyo,93,21,163,Japan
+1968,Mexico City,111,20,172,Mexico
+1972,Munich,120,23,193,Germany
+1976,Montreal,91,23,198,Canada
+1980,Moskva,80,23,203,Russia
+1984,Los Angeles,139,25,221,USA
+1988,Seoul,156,27,237,South Korea
+1992,Barcelona,168,29,257,Spain
+1996,Atlanta,196,31,271,USA
+2000,Sydney,199,34,300,Australia
+2004,Athina,200,34,301,Greece
+2008,Beijing,203,34,302,China
+2012,London,204,32,302,UK
+2016,Rio de Janeiro,206,34,306,Brazil
