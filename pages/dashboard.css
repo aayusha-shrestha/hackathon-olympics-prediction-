@@ -49,3 +49,25 @@ h4 {
 .navigation li a:hover {
   background-color: rgba(255, 255, 255, 0.05);
 }
+
+.main-content {
+  margin-left: 200px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.content-box {
+  width: 80%;
+  height: 80%;
+  background-color: white;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
