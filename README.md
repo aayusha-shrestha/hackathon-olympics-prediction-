@@ -1,5 +1,7 @@
 # Olympics Medal Prediction Project
 
+![logo](https://github.com/user-attachments/assets/60234d97-54ac-4fd5-8d19-7ba149a89f5d)
+
 ## Goal of the Project
 Our project aims to predict the outcomes of the Paris 2024 Olympics by leveraging data from the Tokyo 2021 Olympics and historical Olympic data (from 1960). We use machine learning models to forecast medal counts for various countries and provide insights into factors influencing these outcomes.
 
