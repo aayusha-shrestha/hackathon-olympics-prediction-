@@ -1,0 +1,850 @@
+Bronze,Silver,Gold,ID,Sex,Age,Height,Weight,Year,Medal,BMI,Host,Event,Name,Team,Sport
+0.9,0.0,0.1,110716,0,27.0,172.0,67.0,2016,0,22.647376960519203,0,Alpine Skiing Women's Super G,Georgia Simmerling,Canada,Alpine Skiing
+0.9,0.0,0.1,110716,0,27.0,172.0,67.0,2016,0,22.647376960519203,0,Alpine Skiing Women's Super G,Georgia Simmerling,Canada,Alpine Skiing
+0.9,0.0,0.1,110716,0,27.0,172.0,67.0,2016,0,22.647376960519203,0,Alpine Skiing Women's Super G,Georgia Simmerling,Canada,Alpine Skiing
+0.1,0.0,0.9,124031,1,27.0,180.0,83.0,2016,2,25.61728395061728,0,Archery Men's Individual,Jean-Charles Valladont,France,Archery
+0.1,0.9,0.0,64487,1,23.0,181.0,84.0,2016,1,25.640242971826257,0,Archery Men's Individual,Ku Bon-Chan,South Korea,Archery
+0.9,0.0,0.1,131620,1,25.0,174.0,60.0,2016,0,19.817677368212443,0,Archery Men's Individual,Taylor Worth,Australia,Archery
+0.2,0.0,0.8,25448,0,20.0,169.0,57.0,2016,2,19.95728440880922,0,Archery Women's Individual,Tuyana Norpolovna Dashidorzhiyeva,Russia,Archery
+0.1,0.7,0.2,19760,0,29.0,158.0,50.0,2016,1,20.0288415318058,0,Archery Women's Individual,Chang Hye-Jin,South Korea,Archery
+0.9,0.1,0.0,67472,0,26.0,165.0,69.0,2016,0,25.34435261707989,0,Archery Women's Individual,Le Chien-Ying,Chinese Taipei,Archery
+0.2,0.7,0.1,19335,1,26.0,176.0,65.0,2016,1,20.983987603305785,0,"Athletics Men's 1,500 metres","Matthew Gerald ""Matt"" Centrowitz, Jr.",United States,Athletics
+0.2,0.7,0.1,19335,1,26.0,176.0,65.0,2016,1,20.983987603305785,0,"Athletics Men's 1,500 metres","Matthew Gerald ""Matt"" Centrowitz, Jr.",United States,Athletics
+0.2,0.7,0.1,19335,1,26.0,176.0,65.0,2016,1,20.983987603305785,0,"Athletics Men's 1,500 metres","Matthew Gerald ""Matt"" Centrowitz, Jr.",United States,Athletics
+0.2,0.1,0.7,118509,1,25.0,168.0,47.0,2016,2,16.65249433106576,0,"Athletics Men's 10,000 metres",Paul Kipngetich Tanui,Kenya,Athletics
+0.2,0.1,0.7,118509,1,25.0,168.0,47.0,2016,2,16.65249433106576,0,"Athletics Men's 10,000 metres",Paul Kipngetich Tanui,Kenya,Athletics
+0.5,0.0,0.5,120780,1,24.0,181.0,59.0,2016,0,18.009218277830346,0,"Athletics Men's 10,000 metres",Tamirat Tola Abera,Ethiopia,Athletics
+0.0,0.0,1.0,132276,1,24.0,177.0,70.0,2016,2,22.34351559258195,0,Athletics Men's 100 metres,Ryota Yamagata,Japan,Athletics
+0.08,0.9199999999999999,0.0,5561,1,26.0,183.0,77.0,2016,1,22.99262444384723,0,Athletics Men's 100 metres,Nickel Ashmeade,Jamaica,Athletics
+1.0,0.0,0.0,46861,1,24.0,170.0,73.0,2016,0,25.25951557093426,0,Athletics Men's 100 metres,Akeem Haynes,Canada,Athletics
+0.0,0.2,0.8,89553,1,25.0,182.0,77.0,2016,2,23.24598478444632,0,Athletics Men's 110 metres Hurdles,Orlando Ortega Alejo,Cuba,Athletics
+0.0,0.2,0.8,89553,1,25.0,182.0,77.0,2016,2,23.24598478444632,0,Athletics Men's 110 metres Hurdles,Orlando Ortega Alejo,Cuba,Athletics
+0.9,0.1,0.0,8417,1,29.0,181.0,80.0,2016,0,24.41927902078691,0,Athletics Men's 110 metres Hurdles,Dimitri David Bascou,France,Athletics
+0.1,0.1,0.8,17300,1,25.0,175.0,55.0,2016,2,17.959183673469386,0,Athletics Men's 20 kilometres Walk,Cai Zelin,China,Athletics
+0.5,0.5,0.0,121412,1,33.0,185.0,73.0,2016,1,21.32943754565376,0,Athletics Men's 20 kilometres Walk,Matej Tth,Slovakia,Athletics
+1.0,0.0,0.0,11673,1,24.0,187.0,72.0,2016,0,20.58966513197403,0,Athletics Men's 20 kilometres Walk,Dane Alex Bird-Smith,Australia,Athletics
+0.4,0.2,0.4,51754,1,25.0,185.0,80.0,2016,2,23.37472607742878,0,Athletics Men's 200 metres,Shota Iizuka,Japan,Athletics
+0.4,0.2,0.4,51754,1,25.0,185.0,80.0,2016,2,23.37472607742878,0,Athletics Men's 200 metres,Shota Iizuka,Japan,Athletics
+1.0,0.0,0.0,15460,1,24.0,198.0,79.0,2016,0,20.15100499948985,0,Athletics Men's 200 metres,Aaron Brown,Canada,Athletics
+0.25,0.25,0.5,53305,1,27.0,188.0,65.0,2016,2,18.390674513354465,0,"Athletics Men's 3,000 metres Steeplechase",Evan Reese Jager,United States,Athletics
+0.3,0.6,0.1,60624,1,21.0,167.0,58.0,2016,1,20.7967298935064,0,"Athletics Men's 3,000 metres Steeplechase",Conseslus Kipruto,Kenya,Athletics
+0.3,0.6,0.1,60624,1,21.0,167.0,58.0,2016,1,20.7967298935064,0,"Athletics Men's 3,000 metres Steeplechase",Conseslus Kipruto,Kenya,Athletics
+0.6,0.0,0.4,1561,1,20.0,180.0,62.0,2016,0,19.1358024691358,0,Athletics Men's 4 x 100 metres Relay,Mobolade Abimbola Ajomale,Canada,Athletics
+0.0,1.0,0.0,80204,1,21.0,178.0,85.0,2016,1,26.82742078020452,0,Athletics Men's 4 x 100 metres Relay,Jevaughn Minzie,Jamaica,Athletics
+0.6,0.0,0.4,1561,1,20.0,180.0,62.0,2016,0,19.1358024691358,0,Athletics Men's 4 x 100 metres Relay,Mobolade Abimbola Ajomale,Canada,Athletics
+0.1375,0.1,0.7625,76682,1,26.0,188.0,84.0,2016,2,23.766410140334997,0,Athletics Men's 4 x 400 metres Relay,Peter Matthews,Jamaica,Athletics
+0.5,0.2,0.3,22002,1,25.0,180.0,74.0,2016,1,22.839506172839503,0,Athletics Men's 4 x 400 metres Relay,Kyle Clemons,United States,Athletics
+0.6,0.1,0.3,85554,1,21.0,191.0,82.0,2016,0,22.47745401715962,0,Athletics Men's 4 x 400 metres Relay,Stephen Newbold,Bahamas,Athletics
+0.1,0.0,0.9,30661,1,23.0,195.0,79.0,2016,2,20.77580539119001,0,Athletics Men's 400 metres,Fitzroy Junior Dunkley,Jamaica,Athletics
+0.2,0.8,0.0,125943,1,25.0,173.0,70.0,2016,1,23.38868655818771,0,Athletics Men's 400 metres,David Verburg,United States,Athletics
+0.9,0.0,0.1,38753,1,20.0,193.0,94.0,2016,0,25.23557679400789,0,Athletics Men's 400 metres,Steven Gardiner,Bahamas,Athletics
+0.35,0.15,0.5,122609,1,24.0,175.0,72.0,2016,2,23.51020408163265,0,Athletics Men's 400 metres Hurdles,Boniface Mucheru Tumuti,Kenya,Athletics
+0.35,0.15,0.5,122609,1,24.0,175.0,72.0,2016,2,23.51020408163265,0,Athletics Men's 400 metres Hurdles,Boniface Mucheru Tumuti,Kenya,Athletics
+0.8,0.1,0.1,22978,1,29.0,191.0,85.0,2016,0,23.299799895836188,0,Athletics Men's 400 metres Hurdles,Yasmani Copello Escobar,Turkey,Athletics
+0.0,0.35,0.65,20133,1,25.0,175.0,57.0,2016,2,18.612244897959183,0,"Athletics Men's 5,000 metres",Paul Kipkemboi Chelimo,United States,Athletics
+0.0,0.35,0.65,20133,1,25.0,175.0,57.0,2016,2,18.612244897959183,0,"Athletics Men's 5,000 metres",Paul Kipkemboi Chelimo,United States,Athletics
+0.7,0.2,0.1,39290,1,22.0,171.0,56.0,2016,0,19.15119181970521,0,"Athletics Men's 5,000 metres",Hagos Gebrhiwet Berhe,Ethiopia,Athletics
+0.8,0.2,0.0,4782,1,28.0,180.0,62.0,2016,0,19.1358024691358,0,Athletics Men's 50 kilometres Walk,Hirooki Arai,Japan,Athletics
+0.8,0.2,0.0,4782,1,28.0,180.0,62.0,2016,0,19.1358024691358,0,Athletics Men's 50 kilometres Walk,Hirooki Arai,Japan,Athletics
+0.8,0.2,0.0,4782,1,28.0,180.0,62.0,2016,0,19.1358024691358,0,Athletics Men's 50 kilometres Walk,Hirooki Arai,Japan,Athletics
+0.6,0.1,0.3,83514,1,21.0,180.0,68.0,2016,0,20.98765432098765,0,Athletics Men's 800 metres,Clayton Murphy,United States,Athletics
+0.6,0.1,0.3,83514,1,21.0,180.0,68.0,2016,0,20.98765432098765,0,Athletics Men's 800 metres,Clayton Murphy,United States,Athletics
+0.6,0.1,0.3,83514,1,21.0,180.0,68.0,2016,0,20.98765432098765,0,Athletics Men's 800 metres,Clayton Murphy,United States,Athletics
+0.03333333333333333,0.0,0.9666666666666668,76987,1,24.0,186.0,77.0,2016,2,22.25690831309978,0,Athletics Men's Decathlon,Kvin Mayer,France,Athletics
+0.7,0.1,0.2,128773,1,26.0,185.0,83.0,2016,0,24.25127830533236,0,Athletics Men's Decathlon,Damian Warner,Canada,Athletics
+0.7,0.1,0.2,128773,1,26.0,185.0,83.0,2016,0,24.25127830533236,0,Athletics Men's Decathlon,Damian Warner,Canada,Athletics
+0.55,0.4499999999999999,0.0,46275,1,26.0,207.0,120.0,2016,1,28.00532101099209,0,Athletics Men's Discus Throw,Christoph Harting,Germany,Athletics
+0.55,0.4499999999999999,0.0,46275,1,26.0,207.0,120.0,2016,1,28.00532101099209,0,Athletics Men's Discus Throw,Christoph Harting,Germany,Athletics
+0.55,0.4499999999999999,0.0,46275,1,26.0,207.0,120.0,2016,1,28.00532101099209,0,Athletics Men's Discus Throw,Christoph Harting,Germany,Athletics
+0.7,0.2,0.1,87235,1,27.0,196.0,128.0,2016,0,33.31945022907122,0,Athletics Men's Hammer Throw,Wojciech Nowicki,Poland,Athletics
+0.3,0.7,0.0,84850,1,34.0,187.0,120.0,2016,1,34.31610855329005,0,Athletics Men's Hammer Throw,Dilshod Nazarov,Tajikistan,Athletics
+0.7,0.2,0.1,87235,1,27.0,196.0,128.0,2016,0,33.31945022907122,0,Athletics Men's Hammer Throw,Wojciech Nowicki,Poland,Athletics
+0.7,0.3,0.0,13131,1,26.0,198.0,77.0,2016,0,19.64085297418631,0,Athletics Men's High Jump,Bohdan Viktorovych Bondarenko,Ukraine,Athletics
+0.7,0.3,0.0,13131,1,26.0,198.0,77.0,2016,0,19.64085297418631,0,Athletics Men's High Jump,Bohdan Viktorovych Bondarenko,Ukraine,Athletics
+0.7,0.3,0.0,13131,1,26.0,198.0,77.0,2016,0,19.64085297418631,0,Athletics Men's High Jump,Bohdan Viktorovych Bondarenko,Ukraine,Athletics
+0.3,0.4,0.3,132776,1,27.0,175.0,94.0,2016,2,30.693877551020407,0,Athletics Men's Javelin Throw,Julius Kiplagat Yego,Kenya,Athletics
+0.0,0.9,0.1,102024,1,24.0,192.0,92.0,2016,1,24.95659722222222,0,Athletics Men's Javelin Throw,Thomas Rhler,Germany,Athletics
+0.3,0.4,0.3,132776,1,27.0,175.0,94.0,2016,2,30.693877551020407,0,Athletics Men's Javelin Throw,Julius Kiplagat Yego,Kenya,Athletics
+0.12,0.4,0.48,47578,1,27.0,183.0,86.0,2016,1,25.68007405416704,0,Athletics Men's Long Jump,"Jeffrey ""Jeff"" Henderson",United States,Athletics
+0.12,0.4,0.48,47578,1,27.0,183.0,86.0,2016,1,25.68007405416704,0,Athletics Men's Long Jump,"Jeffrey ""Jeff"" Henderson",United States,Athletics
+0.12,0.4,0.48,47578,1,27.0,183.0,86.0,2016,1,25.68007405416704,0,Athletics Men's Long Jump,"Jeffrey ""Jeff"" Henderson",United States,Athletics
+0.2,0.0,0.8,69854,1,26.0,175.0,67.0,2016,2,21.877551020408163,0,Athletics Men's Marathon,Feyisa Lilesa,Ethiopia,Athletics
+0.2,0.0,0.8,69854,1,26.0,175.0,67.0,2016,2,21.877551020408163,0,Athletics Men's Marathon,Feyisa Lilesa,Ethiopia,Athletics
+0.2,0.0,0.8,69854,1,26.0,175.0,67.0,2016,2,21.877551020408163,0,Athletics Men's Marathon,Feyisa Lilesa,Ethiopia,Athletics
+0.1,0.7,0.2,14810,1,22.0,183.0,75.0,2016,1,22.39541341933172,1,Athletics Men's Pole Vault,Thiago Braz da Silva,Brazil,Athletics
+0.1,0.7,0.2,14810,1,22.0,183.0,75.0,2016,1,22.39541341933172,1,Athletics Men's Pole Vault,Thiago Braz da Silva,Brazil,Athletics
+0.9,0.0,0.1,58688,1,23.0,185.0,80.0,2016,0,23.37472607742878,0,Athletics Men's Pole Vault,Sam Kendricks,United States,Athletics
+0.0,0.0,1.0,63392,1,27.0,183.0,134.0,2016,2,40.01313864253934,0,Athletics Men's Shot Put,"Joseph Mathias ""Joe"" Kovacs",United States,Athletics
+0.2,0.8,0.0,23974,1,23.0,201.0,125.0,2016,1,30.93982822207372,0,Athletics Men's Shot Put,Ryan Crouser,United States,Athletics
+0.7,0.1,0.2,128283,1,24.0,185.0,120.0,2016,0,35.06208911614317,0,Athletics Men's Shot Put,"Tomas ""Tom"" Walsh",New Zealand,Athletics
+0.8,0.1,0.1,29366,1,27.0,180.0,74.0,2016,0,22.839506172839503,0,Athletics Men's Triple Jump,Dong Bin,China,Athletics
+0.8,0.1,0.1,29366,1,27.0,180.0,74.0,2016,0,22.839506172839503,0,Athletics Men's Triple Jump,Dong Bin,China,Athletics
+0.8,0.1,0.1,29366,1,27.0,180.0,74.0,2016,0,22.839506172839503,0,Athletics Men's Triple Jump,Dong Bin,China,Athletics
+0.25,0.05,0.7,87792,0,26.0,160.0,50.0,2016,2,19.53125,0,"Athletics Women's 1,500 metres",Hellen Onsando Obiri,Kenya,Athletics
+0.0,1.0,0.0,59542,0,22.0,157.0,43.0,2016,1,17.444926771877153,0,"Athletics Women's 1,500 metres",Faith Chepngetich Kibiegon,Kenya,Athletics
+0.3,0.1,0.6,28311,0,25.0,168.0,52.0,2016,2,18.42403628117914,0,"Athletics Women's 1,500 metres",Genzebe Dibaba Keneni,Ethiopia,Athletics
+0.0,0.4945238095238095,0.5054761904761905,130568,0,21.0,165.0,63.0,2016,2,23.1404958677686,0,Athletics Women's 100 metres,Christania Williams,Jamaica,Athletics
+0.195,0.805,0.0,119903,0,24.0,167.0,57.0,2016,1,20.43816558499767,0,Athletics Women's 100 metres,Elaine Thompson,Jamaica,Athletics
+0.925,0.0,0.075,85141,0,19.0,172.0,61.0,2016,0,20.61925365062196,0,Athletics Women's 100 metres,Daryll Saskia Neita,Great Britain,Athletics
+0.1,0.0,0.9,2695,0,27.0,170.0,65.0,2016,2,22.49134948096886,0,Athletics Women's 100 metres Hurdles,Nia Sifaatihii Ali,United States,Athletics
+0.0,0.8,0.2,102175,0,24.0,165.0,59.0,2016,1,21.6712580348944,0,Athletics Women's 100 metres Hurdles,Brianna Rollins,United States,Athletics
+1.0,0.0,0.0,18976,0,28.0,170.0,60.0,2016,0,20.761245674740486,0,Athletics Women's 100 metres Hurdles,Kristi Castlin,United States,Athletics
+0.0,0.8,0.2,70582,0,29.0,160.0,50.0,2016,1,19.53125,0,Athletics Women's 20 kilometres Walk,Liu Hong,China,Athletics
+0.0,0.8,0.2,70582,0,29.0,160.0,50.0,2016,1,19.53125,0,Athletics Women's 20 kilometres Walk,Liu Hong,China,Athletics
+0.75,0.15,0.1,71922,0,22.0,160.0,45.0,2016,0,17.578124999999996,0,Athletics Women's 20 kilometres Walk,Lu Xiuzhi,China,Athletics
+0.13333333333333333,0.1,0.7666666666666667,33686,0,31.0,162.0,53.0,2016,2,20.195092211553117,0,Athletics Women's 200 metres,Simone Facey,Jamaica,Athletics
+0.13333333333333333,0.1,0.7666666666666667,33686,0,31.0,162.0,53.0,2016,2,20.195092211553117,0,Athletics Women's 200 metres,Simone Facey,Jamaica,Athletics
+1.0,0.0,0.0,5542,0,20.0,164.0,55.0,2016,0,20.449137418203453,0,Athletics Women's 200 metres,"Geraldina Rachel ""Dina"" Asher-Smith",Great Britain,Athletics
+0.7,0.1,0.2,8128,0,29.0,166.0,53.0,2016,0,19.233560749020175,0,"Athletics Women's 3,000 metres Steeplechase","Jennifer Mae ""Jenny"" Barringer-Simpson",United States,Athletics
+0.36666666666666664,0.5333333333333333,0.1,54135,0,19.0,162.0,51.0,2016,1,19.43301326017375,0,"Athletics Women's 3,000 metres Steeplechase",Ruth Jebet,Bahrain,Athletics
+0.9,0.1,0.0,22143,0,25.0,173.0,54.0,2016,0,18.04270105917337,0,"Athletics Women's 3,000 metres Steeplechase",Emma Jane Coburn,United States,Athletics
+0.1,0.5,0.4,36212,0,20.0,160.0,55.0,2016,2,21.484375,0,Athletics Women's 4 x 100 metres Relay,Shashalee Forbes,Jamaica,Athletics
+0.1,0.8,0.1,1682,0,22.0,163.0,61.0,2016,1,22.95908765854944,0,Athletics Women's 4 x 100 metres Relay,Morolake Akinosun,United States,Athletics
+0.1,0.8,0.1,1682,0,22.0,163.0,61.0,2016,1,22.95908765854944,0,Athletics Women's 4 x 100 metres Relay,Morolake Akinosun,United States,Athletics
+0.1,0.1,0.8,77784,0,30.0,170.0,65.0,2016,2,22.49134948096886,0,Athletics Women's 4 x 400 metres Relay,Anneisha McLaughlin-Whilby,Jamaica,Athletics
+0.0,0.9,0.1,88474,0,22.0,173.0,59.0,2016,1,19.71332152761536,0,Athletics Women's 4 x 400 metres Relay,Courtney Okolo,United States,Athletics
+0.7,0.1,0.2,76226,0,31.0,178.0,57.0,2016,0,17.99015275849009,0,Athletics Women's 4 x 400 metres Relay,Kelly Massey,Great Britain,Athletics
+0.325,0.1,0.575,53145,0,22.0,173.0,61.0,2016,0,20.381569714992143,0,Athletics Women's 400 metres,Shericka Jackson,Jamaica,Athletics
+0.1,0.8,0.1,79938,0,22.0,185.0,69.0,2016,1,20.16070124178232,0,Athletics Women's 400 metres,Shaunae Miller (-Uibo),Bahamas,Athletics
+0.8,0.2,0.0,28171,0,25.0,173.0,58.0,2016,0,19.37919743392696,0,Athletics Women's 400 metres,Emily Jane Diamond,Great Britain,Athletics
+0.2,0.3,0.5,111995,0,29.0,171.0,57.0,2016,2,19.493177387914237,0,Athletics Women's 400 metres Hurdles,Sara Slott-Bruun Petersen,Denmark,Athletics
+0.3,0.7,0.0,82900,0,26.0,173.0,55.0,2016,1,18.376825152861773,0,Athletics Women's 400 metres Hurdles,Dalilah Muhammad,United States,Athletics
+1.0,0.0,0.0,20742,0,29.0,170.0,60.0,2016,0,20.761245674740486,0,Athletics Women's 400 metres Hurdles,Eilidh Child-Doyle,Great Britain,Athletics
+0.8,0.2,0.0,6204,0,24.0,166.0,47.0,2016,0,17.056176513282043,0,"Athletics Women's 5,000 metres",Almaz Ayana Eba,Ethiopia,Athletics
+0.8,0.2,0.0,6204,0,24.0,166.0,47.0,2016,0,17.056176513282043,0,"Athletics Women's 5,000 metres",Almaz Ayana Eba,Ethiopia,Athletics
+0.8,0.2,0.0,6204,0,24.0,166.0,47.0,2016,0,17.056176513282043,0,"Athletics Women's 5,000 metres",Almaz Ayana Eba,Ethiopia,Athletics
+0.2,0.0,0.8,86595,0,23.0,166.0,60.0,2016,2,21.773842357381334,0,Athletics Women's 800 metres,Francine Niyonsaba,Burundi,Athletics
+0.2,0.0,0.8,86595,0,23.0,166.0,60.0,2016,2,21.773842357381334,0,Athletics Women's 800 metres,Francine Niyonsaba,Burundi,Athletics
+0.2,0.0,0.8,86595,0,23.0,166.0,60.0,2016,2,21.773842357381334,0,Athletics Women's 800 metres,Francine Niyonsaba,Burundi,Athletics
+0.2,0.4,0.4,101273,0,37.0,180.0,85.0,2016,2,26.234567901234566,0,Athletics Women's Discus Throw,Mlina Robert-Michon,France,Athletics
+0.2,0.4,0.4,101273,0,37.0,180.0,85.0,2016,2,26.234567901234566,0,Athletics Women's Discus Throw,Mlina Robert-Michon,France,Athletics
+0.7,0.2,0.1,17125,0,26.0,175.0,70.0,2016,0,22.857142857142858,0,Athletics Women's Discus Throw,Denia Caballero Ponce,Cuba,Athletics
+0.9,0.0,0.1,48858,0,25.0,170.0,75.0,2016,0,25.95155709342561,0,Athletics Women's Hammer Throw,Sophie Hitchon,Great Britain,Athletics
+0.9,0.0,0.1,48858,0,25.0,170.0,75.0,2016,0,25.95155709342561,0,Athletics Women's Hammer Throw,Sophie Hitchon,Great Britain,Athletics
+0.9,0.0,0.1,48858,0,25.0,170.0,75.0,2016,0,25.95155709342561,0,Athletics Women's Hammer Throw,Sophie Hitchon,Great Britain,Athletics
+0.03333333333333333,0.9333333333333333,0.03333333333333333,119631,0,21.0,184.0,69.0,2016,1,20.380434782608692,0,Athletics Women's Heptathlon,"Nafissatou ""Nafi"" Thiam",Belgium,Athletics
+0.03333333333333333,0.9333333333333333,0.03333333333333333,119631,0,21.0,184.0,69.0,2016,1,20.380434782608692,0,Athletics Women's Heptathlon,"Nafissatou ""Nafi"" Thiam",Belgium,Athletics
+0.4066666666666666,0.5933333333333333,0.0,119559,0,27.0,175.0,64.0,2016,0,20.897959183673468,0,Athletics Women's Heptathlon,Brianne Theisen-Eaton,Canada,Athletics
+0.2,0.1,0.7,27488,0,26.0,180.0,58.0,2016,2,17.901234567901234,0,Athletics Women's High Jump,Mirela Krasimirova Demireva,Bulgaria,Athletics
+0.0,0.9,0.1,9464,0,37.0,191.0,72.0,2016,1,19.736301088237717,0,Athletics Women's High Jump,Ruth Beita Vila,Spain,Athletics
+0.2,0.1,0.7,27488,0,26.0,180.0,58.0,2016,2,17.901234567901234,0,Athletics Women's High Jump,Mirela Krasimirova Demireva,Bulgaria,Athletics
+0.2,0.2,0.6,62116,0,21.0,170.0,74.0,2016,1,25.60553633217993,0,Athletics Women's Javelin Throw,Sara Kolak,Croatia,Athletics
+0.2,0.2,0.6,62116,0,21.0,170.0,74.0,2016,1,25.60553633217993,0,Athletics Women's Javelin Throw,Sara Kolak,Croatia,Athletics
+0.6,0.15,0.25,126574,0,32.0,170.0,72.0,2016,2,24.913494809688583,0,Athletics Women's Javelin Throw,Sunette Stella Viljoen,South Africa,Athletics
+0.7,0.3,0.0,113674,0,26.0,176.0,65.0,2016,0,20.983987603305785,0,Athletics Women's Long Jump,Ivana panovi,Serbia,Athletics
+0.7,0.3,0.0,113674,0,26.0,176.0,65.0,2016,0,20.983987603305785,0,Athletics Women's Long Jump,Ivana panovi,Serbia,Athletics
+0.7,0.3,0.0,113674,0,26.0,176.0,65.0,2016,0,20.983987603305785,0,Athletics Women's Long Jump,Ivana panovi,Serbia,Athletics
+0.3,0.1,0.6,60784,0,32.0,155.0,49.0,2016,2,20.39542143600416,0,Athletics Women's Marathon,Eunice Jepkirui Kirwa,Bahrain,Athletics
+0.1,0.9,0.0,116424,0,31.0,160.0,45.0,2016,1,17.578124999999996,0,Athletics Women's Marathon,Jemima Jelagat Sumgong,Kenya,Athletics
+0.3,0.1,0.6,60784,0,32.0,155.0,49.0,2016,2,20.39542143600416,0,Athletics Women's Marathon,Eunice Jepkirui Kirwa,Bahrain,Athletics
+0.1,0.0,0.9,82271,0,24.0,173.0,62.0,2016,2,20.715693808680545,0,Athletics Women's Pole Vault,Sandi Morris,United States,Athletics
+0.0,1.0,0.0,114658,0,26.0,173.0,59.0,2016,1,19.71332152761536,0,Athletics Women's Pole Vault,"Aikaterini ""Ekaterini"" Stefanidi",Greece,Athletics
+0.2,0.4,0.4,77314,0,19.0,179.0,66.0,2016,0,20.598608033457133,0,Athletics Women's Pole Vault,Eliza McCartney,New Zealand,Athletics
+0.5,0.3,0.2,75934,0,27.0,172.0,95.0,2016,0,32.11195240670633,0,Athletics Women's Shot Put,Anita Mrton,Hungary,Athletics
+0.2,0.7,0.1,18653,0,30.0,176.0,136.0,2016,1,43.904958677685954,0,Athletics Women's Shot Put,Michelle Denee Carter,United States,Athletics
+0.5,0.3,0.2,75934,0,27.0,172.0,95.0,2016,0,32.11195240670633,0,Athletics Women's Shot Put,Anita Mrton,Hungary,Athletics
+0.0,0.3,0.7,102089,0,20.0,192.0,72.0,2016,2,19.53125,0,Athletics Women's Triple Jump,Yulimar del Valle Rojas Rodrguez,Venezuela,Athletics
+0.0,0.3,0.7,102089,0,20.0,192.0,72.0,2016,2,19.53125,0,Athletics Women's Triple Jump,Yulimar del Valle Rojas Rodrguez,Venezuela,Athletics
+0.0,0.3,0.7,102089,0,20.0,192.0,72.0,2016,2,19.53125,0,Athletics Women's Triple Jump,Yulimar del Valle Rojas Rodrguez,Venezuela,Athletics
+0.0,0.0,1.0,41060,1,27.0,180.0,70.0,2016,2,21.604938271604937,0,Badminton Men's Doubles,Goh V Shem,Malaysia,Badminton
+0.4,0.2,0.4,32372,1,26.0,175.0,80.0,2016,0,26.12244897959184,0,Badminton Men's Doubles,Marcus John Ellis,Great Britain,Badminton
+0.4,0.2,0.4,32372,1,26.0,175.0,80.0,2016,0,26.12244897959184,0,Badminton Men's Doubles,Marcus John Ellis,Great Britain,Badminton
+0.6,0.1,0.3,6174,1,22.0,194.0,88.0,2016,0,23.381868423849507,0,Badminton Men's Singles,Viktor Axelsen,Denmark,Badminton
+0.6,0.1,0.3,6174,1,22.0,194.0,88.0,2016,0,23.381868423849507,0,Badminton Men's Singles,Viktor Axelsen,Denmark,Badminton
+0.6,0.1,0.3,6174,1,22.0,194.0,88.0,2016,0,23.381868423849507,0,Badminton Men's Singles,Viktor Axelsen,Denmark,Badminton
+0.1,0.1,0.8,41058,0,27.0,166.0,56.0,2016,2,20.322252866889244,0,Badminton Mixed Doubles,Goh Liu Ying,Malaysia,Badminton
+0.0,0.7,0.3,1374,1,29.0,179.0,72.0,2016,1,22.47120876377142,0,Badminton Mixed Doubles,Tontowi Ahmad,Indonesia,Badminton
+0.2,0.025,0.775,19696,1,28.0,175.0,68.0,2016,2,22.20408163265306,0,Badminton Mixed Doubles,Chan Peng Soon,Malaysia,Badminton
+0.1,0.5,0.4,54529,0,26.0,172.0,59.0,2016,0,19.94321254732288,0,Badminton Women's Doubles,Jeong Gyeong-Eun,South Korea-1,Badminton
+0.1,0.5,0.4,54529,0,26.0,172.0,59.0,2016,0,19.94321254732288,0,Badminton Women's Doubles,Jeong Gyeong-Eun,South Korea-1,Badminton
+1.0,0.0,0.0,109817,0,21.0,173.0,70.0,2016,0,23.38868655818771,0,Badminton Women's Doubles,Shin Seung-Chan,South Korea-1,Badminton
+0.1,0.1,0.8,110974,0,21.0,179.0,65.0,2016,2,20.286507911738084,0,Badminton Women's Singles,"Pusarla Venkata ""P. V."" Sindhu",India,Badminton
+0.0,0.6,0.4,75045,0,23.0,172.0,65.0,2016,1,21.97133585722012,0,Badminton Women's Singles,Carolina Mara Marn Marn,Spain,Badminton
+0.8,0.2,0.0,88526,0,21.0,156.0,51.0,2016,0,20.956607495069036,0,Badminton Women's Singles,Nozomi Okuhara,Japan,Badminton
+0.0,0.0,1.0,98227,1,28.0,213.0,130.0,2016,2,28.65392669003064,0,Basketball Men's Basketball,Miroslav Raduljica,Serbia,Basketball
+0.0,1.0,0.0,16923,1,26.0,201.0,99.0,2016,1,24.504343951882387,0,Basketball Men's Basketball,Jimmy Butler III,United States,Basketball
+0.9,0.1,0.0,576,1,23.0,198.0,93.0,2016,0,23.72206917661463,0,Basketball Men's Basketball,"Alejandro ""lex"" Abrines Redondo",Spain,Basketball
+0.02,0.16,0.82,97884,0,20.0,185.0,74.0,2016,2,21.62162162162162,0,Basketball Women's Basketball,Laura Quevedo Caizares,Spain,Basketball
+0.1,0.9,0.0,115132,0,21.0,193.0,79.0,2016,1,21.20862305028323,0,Basketball Women's Basketball,Breanna Mackenzie Stewart,United States,Basketball
+1.0,0.0,0.0,98178,0,28.0,170.0,60.0,2016,0,20.761245674740486,0,Basketball Women's Basketball,Tamara Radoaj,Serbia,Basketball
+0.0,0.0,1.0,72425,1,25.0,183.0,77.0,2016,2,22.99262444384723,0,Beach Volleyball Men's Beach Volleyball,Daniele Lupo,Italy,Beach Volleyball
+0.25,0.25,0.5,107078,1,29.0,185.0,87.0,2016,1,25.4200146092038,1,Beach Volleyball Men's Beach Volleyball,Bruno Oscar Schmidt,Brazil-1,Beach Volleyball
+0.7,0.15,0.15,15446,1,26.0,198.0,88.0,2016,0,22.44668911335578,0,Beach Volleyball Men's Beach Volleyball,Alexander Brouwer,Netherlands-1,Beach Volleyball
+0.1,0.2,0.7,7716,0,29.0,178.0,67.0,2016,2,21.146319909102385,1,Beach Volleyball Women's Beach Volleyball,Brbara Seixas de Freitas,Brazil-1,Beach Volleyball
+0.0,0.85,0.15,128079,0,25.0,184.0,75.0,2016,1,22.152646502835537,0,Beach Volleyball Women's Beach Volleyball,Kira Walkenhorst,Germany-1,Beach Volleyball
+0.3,0.1,0.6,9307,0,33.0,182.0,70.0,2016,2,21.132713440405748,1,Beach Volleyball Women's Beach Volleyball,gatha Bednarczuk Rippel,Brazil-1,Beach Volleyball
+0.425,0.275,0.3,115113,1,19.0,173.0,56.0,2016,2,18.710949246550168,0,Boxing Men's Bantamweight,Shakur Stevenson,United States,Boxing
+0.5,0.4,0.1,1647,1,21.0,165.0,56.0,2016,0,20.569329660238758,0,Boxing Men's Bantamweight,Murodzhon Kakharovich Akhmadaliyev,Uzbekistan,Boxing
+0.8,0.2,0.0,86217,1,26.0,165.0,56.0,2016,0,20.569329660238758,0,Boxing Men's Bantamweight,Vladimir Olegovich Nikitin,Russia,Boxing
+0.2,0.7,0.1,22623,1,27.0,171.0,57.0,2016,1,19.493177387914237,1,Boxing Men's Featherweight,Robson Donato Conceio,Brazil,Boxing
+0.2,0.7,0.1,22623,1,27.0,171.0,57.0,2016,1,19.493177387914237,1,Boxing Men's Featherweight,Robson Donato Conceio,Brazil,Boxing
+0.2,0.7,0.1,22623,1,27.0,171.0,57.0,2016,1,19.493177387914237,1,Boxing Men's Featherweight,Robson Donato Conceio,Brazil,Boxing
+0.175,0.625,0.2,50565,1,23.0,168.0,52.0,2016,0,18.42403628117914,0,Boxing Men's Flyweight,Hu Jianguan,China,Boxing
+0.2,0.8,0.0,135205,1,23.0,169.0,52.0,2016,1,18.20664542558034,0,Boxing Men's Flyweight,Shakhobiddin Shokirovich Zoirov,Uzbekistan,Boxing
+0.7,0.3,0.0,35443,1,19.0,168.0,52.0,2016,0,18.42403628117914,0,Boxing Men's Flyweight,Yoel Segundo Finol Rivas,Venezuela,Boxing
+0.5,0.1,0.4,69163,1,28.0,185.0,91.0,2016,2,26.588750913075238,0,Boxing Men's Heavyweight,Vasily Alekseyevich Levit,Kazakhstan,Boxing
+0.2,0.5,0.3,120511,1,25.0,196.0,91.0,2016,1,23.688046647230323,0,Boxing Men's Heavyweight,Yevgeny Andreyevich Tishchenko,Russia,Boxing
+0.9,0.1,0.0,122563,1,24.0,186.0,91.0,2016,0,26.303618915481557,0,Boxing Men's Heavyweight,Rustam Tulaganov,Uzbekistan,Boxing
+0.425,0.1,0.475,75850,1,24.0,165.0,49.0,2016,2,17.99816345270891,0,Boxing Men's Light-Flyweight,Yurberjen Herney Martnez Rivas,Colombia,Boxing
+0.3,0.4,0.3,30884,1,23.0,156.0,49.0,2016,1,20.134779750164363,0,Boxing Men's Light-Flyweight,Hasanboy Dusmatov,Uzbekistan,Boxing
+0.8,0.1,0.1,48058,1,20.0,165.0,49.0,2016,0,17.99816345270891,0,Boxing Men's Light-Flyweight,Nico Miguel Hernandez,United States,Boxing
+0.5,0.2,0.3,8672,1,27.0,185.0,81.0,2016,0,23.66691015339664,0,Boxing Men's Light-Heavyweight,Mathieu Albert Daniel Bauderlique,France,Boxing
+0.2,0.8,0.0,65585,1,26.0,182.0,81.0,2016,1,24.45356840961236,0,Boxing Men's Light-Heavyweight,Julio Csar La Cruz Peraza,Cuba,Boxing
+0.8,0.2,0.0,15967,1,23.0,185.0,81.0,2016,0,23.66691015339664,0,Boxing Men's Light-Heavyweight,Joshua Buatsi,Great Britain,Boxing
+0.4,0.1,0.5,113381,1,31.0,185.0,64.0,2016,2,18.699780861943022,0,Boxing Men's Light-Welterweight,Lorenzo Sotomayor Collazo,Azerbaijan,Boxing
+0.6,0.4,0.0,46344,1,25.0,172.0,64.0,2016,0,21.63331530557058,0,Boxing Men's Light-Welterweight,Artem Harutyunyan,Germany,Boxing
+0.6,0.4,0.0,46344,1,25.0,172.0,64.0,2016,0,21.63331530557058,0,Boxing Men's Light-Welterweight,Artem Harutyunyan,Germany,Boxing
+0.3,0.2,0.5,90122,1,21.0,174.0,60.0,2016,2,19.817677368212443,0,Boxing Men's Lightweight,Sofiane Oumiha,France,Boxing
+0.3,0.7,0.0,39193,1,25.0,169.0,64.0,2016,1,22.40817898532965,0,Boxing Men's Lightweight,Fazliddin Khasanbayevich Gaybnazarov,Uzbekistan,Boxing
+0.8166666666666667,0.18333333333333335,0.0,29508,1,28.0,170.0,60.0,2016,0,20.761245674740486,0,Boxing Men's Lightweight,Dorjnyambuugiin Otgondalai,Mongolia,Boxing
+0.2,0.2,0.6,78441,1,20.0,177.0,75.0,2016,2,23.93948099205209,0,Boxing Men's Middleweight,Bektemir Ruzmatzhonovich Melikuziyev,Uzbekistan,Boxing
+0.1,0.7,0.2,71328,1,23.0,178.0,75.0,2016,1,23.671253629592226,0,Boxing Men's Middleweight,Arlen Lpez Cardona,Cuba,Boxing
+0.9,0.1,0.0,104327,1,23.0,180.0,75.0,2016,0,23.148148148148145,0,Boxing Men's Middleweight,Kamran ahsuvarl,Azerbaijan,Boxing
+0.7,0.1,0.2,50473,1,24.0,198.0,101.0,2016,0,25.762677277828796,0,Boxing Men's Super-Heavyweight,Filip Hrgovi,Croatia,Boxing
+0.0,0.8,0.2,56073,1,30.0,197.0,108.0,2016,2,27.82859645958412,0,Boxing Men's Super-Heavyweight,"Joseph ""Joe"" Joyce",Great Britain,Boxing
+0.7,0.1,0.2,50473,1,24.0,198.0,101.0,2016,0,25.762677277828796,0,Boxing Men's Super-Heavyweight,Filip Hrgovi,Croatia,Boxing
+0.1,0.0,0.9,40641,1,23.0,174.0,69.0,2016,2,22.79032897344431,0,Boxing Men's Welterweight,Shakhram Dzhamshedovich Giyasov,Uzbekistan,Boxing
+0.8,0.15,0.05,98057,1,23.0,180.0,69.0,2016,0,21.29629629629629,0,Boxing Men's Welterweight,Mohammed Rabii,Morocco,Boxing
+0.8,0.1,0.1,21700,1,25.0,179.0,69.0,2016,0,21.53490839861428,0,Boxing Men's Welterweight,Souleymane Diop Cissokho,France,Boxing
+0.3,0.0,0.7,90133,0,34.0,158.0,51.0,2016,2,20.429418362441915,0,Boxing Women's Flyweight,Sarah Ourahmoune,France,Boxing
+0.6,0.1,0.3,123925,0,27.0,160.0,50.0,2016,0,19.53125,0,Boxing Women's Flyweight,Ingrit Lorena Valencia Victoria,Colombia,Boxing
+0.6,0.1,0.3,123925,0,27.0,160.0,50.0,2016,0,19.53125,0,Boxing Women's Flyweight,Ingrit Lorena Valencia Victoria,Colombia,Boxing
+0.0,0.2,0.8,132989,0,25.0,167.0,60.0,2016,2,21.513858510523864,0,Boxing Women's Lightweight,Yin Junhua,China,Boxing
+0.0,0.8,0.2,82474,0,23.0,168.0,60.0,2016,1,21.258503401360542,0,Boxing Women's Lightweight,Estelle Mossely,France,Boxing
+0.9,0.0,0.1,9823,0,23.0,173.0,60.0,2016,0,20.04744562130375,0,Boxing Women's Lightweight,Anastasiya Yevgenyevna Belyakova,Russia,Boxing
+0.0,0.1,0.9,36182,0,28.0,180.0,75.0,2016,2,23.148148148148145,0,Boxing Women's Middleweight,Nouchka Fontijn,Netherlands,Boxing
+0.0,0.1,0.9,36182,0,28.0,180.0,75.0,2016,2,23.148148148148145,0,Boxing Women's Middleweight,Nouchka Fontijn,Netherlands,Boxing
+0.9,0.0,0.1,69466,0,26.0,180.0,75.0,2016,0,23.148148148148145,0,Boxing Women's Middleweight,Li Qian,China,Boxing
+0.1,0.5,0.4,110508,1,25.0,175.0,78.0,2016,2,25.46938775510204,1,"Canoeing Men's Canadian Doubles, 1,000 metres",Erlon de Souza Silva,Brazil,Canoeing
+0.0,0.9666666666666666,0.03333333333333333,125110,1,24.0,188.0,88.0,2016,1,24.898143956541425,0,"Canoeing Men's Canadian Doubles, 1,000 metres",Jan Vandrey,Germany,Canoeing
+1.0,0.0,0.0,80332,1,21.0,187.0,85.0,2016,0,24.307243558580453,0,"Canoeing Men's Canadian Doubles, 1,000 metres",Taras Viktorovych Mishchuk,Ukraine,Canoeing
+0.7666666666666667,0.1,0.13333333333333333,61076,1,28.0,171.0,65.0,2016,0,22.229061933586404,0,"Canoeing Men's Canadian Doubles, Slalom",Gauthier Klauss,France,Canoeing
+0.1,0.9,0.0,111586,1,33.0,189.0,80.0,2016,1,22.395789591556788,0,"Canoeing Men's Canadian Doubles, Slalom",Ladislav kantr,Slovakia,Canoeing
+0.8,0.1,0.1,92554,1,28.0,175.0,75.0,2016,0,24.489795918367346,0,"Canoeing Men's Canadian Doubles, Slalom",Matthieu Patrick Franois Peche,France,Canoeing
+0.3,0.5,0.2,110034,1,29.0,185.0,95.0,2016,0,27.757487216946675,0,"Canoeing Men's Canadian Singles, 1,000 metres",Ilya Anatolyevich Shtokalov,Russia,Canoeing
+0.3,0.5,0.2,110034,1,29.0,185.0,95.0,2016,0,27.757487216946675,0,"Canoeing Men's Canadian Singles, 1,000 metres",Ilya Anatolyevich Shtokalov,Russia,Canoeing
+0.3,0.5,0.2,110034,1,29.0,185.0,95.0,2016,0,27.757487216946675,0,"Canoeing Men's Canadian Singles, 1,000 metres",Ilya Anatolyevich Shtokalov,Russia,Canoeing
+0.0,0.0,1.0,27528,1,32.0,193.0,93.0,2016,2,24.967113211092915,0,"Canoeing Men's Canadian Singles, 200 metres",Valentin Demyanenko,Azerbaijan,Canoeing
+0.1,0.1,0.8,97845,1,22.0,175.0,85.0,2016,0,27.755102040816325,1,"Canoeing Men's Canadian Singles, 200 metres",Isaquias Queiroz dos Santos,Brazil,Canoeing
+0.1,0.1,0.8,97845,1,22.0,175.0,85.0,2016,0,27.755102040816325,1,"Canoeing Men's Canadian Singles, 200 metres",Isaquias Queiroz dos Santos,Brazil,Canoeing
+0.2,0.1,0.7,10259,1,28.0,196.0,83.0,2016,2,21.60558100791337,0,"Canoeing Men's Canadian Singles, Slalom",Matej Beu,Slovakia,Canoeing
+0.0,1.0,0.0,38795,1,29.0,181.0,76.0,2016,1,23.198315069747565,0,"Canoeing Men's Canadian Singles, Slalom",Denis Gargaud Chanut,France,Canoeing
+1.0,0.0,0.0,45559,1,29.0,175.0,70.0,2016,0,22.857142857142858,0,"Canoeing Men's Canadian Singles, Slalom",Takuya Haneda,Japan,Canoeing
+0.0,1.0,0.0,99971,1,22.0,186.0,90.0,2016,1,26.01456815816857,0,"Canoeing Men's Kayak Doubles, 1,000 metres",Max Rendschmidt,Germany,Canoeing
+0.0,1.0,0.0,99971,1,22.0,186.0,90.0,2016,1,26.01456815816857,0,"Canoeing Men's Kayak Doubles, 1,000 metres",Max Rendschmidt,Germany,Canoeing
+0.2,0.8,0.0,118202,1,27.0,176.0,80.0,2016,0,25.826446280991732,0,"Canoeing Men's Kayak Doubles, 1,000 metres",Lachlan Tame,Australia,Canoeing
+0.1,0.6,0.3,69743,1,23.0,189.0,89.0,2016,1,24.915315920606925,0,"Canoeing Men's Kayak Doubles, 200 metres",Tom Liebscher,Germany,Canoeing
+0.1,0.8,0.1,121200,1,24.0,188.0,90.0,2016,1,25.46401086464464,0,"Canoeing Men's Kayak Doubles, 200 metres",Cristian Isaac Toro Carballo,Spain,Canoeing
+0.8,0.1,0.1,98590,1,30.0,184.0,90.0,2016,0,26.583175803402646,0,"Canoeing Men's Kayak Doubles, 200 metres",Edvinas Ramanauskas,Lithuania,Canoeing
+0.1,0.0,0.9,70331,1,21.0,199.0,95.0,2016,2,23.989293199666676,0,"Canoeing Men's Kayak Fours, 1,000 metres",Tibor Linka,Slovakia,Canoeing
+0.0,0.9,0.1,43150,1,26.0,182.0,85.0,2016,1,25.661152034778407,0,"Canoeing Men's Kayak Fours, 1,000 metres",Marcus Gro,Germany,Canoeing
+0.1,0.0,0.9,70331,1,21.0,199.0,95.0,2016,2,23.989293199666676,0,"Canoeing Men's Kayak Fours, 1,000 metres",Tibor Linka,Slovakia,Canoeing
+0.4,0.1,0.5,120935,1,26.0,174.0,80.0,2016,2,26.42356982428326,0,"Canoeing Men's Kayak Singles, 1,000 metres",Marko Tomievi,Serbia,Canoeing
+0.2,0.7,0.1,128355,1,21.0,184.0,82.0,2016,1,24.22022684310019,0,"Canoeing Men's Kayak Singles, 1,000 metres",Marcus Cooper Walz,Spain,Canoeing
+0.4,0.1,0.5,120935,1,26.0,174.0,80.0,2016,2,26.42356982428326,0,"Canoeing Men's Kayak Singles, 1,000 metres",Marko Tomievi,Serbia,Canoeing
+0.2,0.1,0.7,9089,1,34.0,191.0,94.0,2016,2,25.766837531865903,0,"Canoeing Men's Kayak Singles, 200 metres",Maxime Eugne Ren Beaumont,France,Canoeing
+0.2,0.1,0.7,9089,1,34.0,191.0,94.0,2016,2,25.766837531865903,0,"Canoeing Men's Kayak Singles, 200 metres",Maxime Eugne Ren Beaumont,France,Canoeing
+0.2,0.1,0.7,9089,1,34.0,191.0,94.0,2016,2,25.766837531865903,0,"Canoeing Men's Kayak Singles, 200 metres",Maxime Eugne Ren Beaumont,France,Canoeing
+0.1,0.15,0.75,58113,1,32.0,177.0,70.0,2016,2,22.34351559258195,0,"Canoeing Men's Kayak Singles, Slalom",Peter Kauzer,Slovenia,Canoeing
+0.1,0.7,0.2,21865,1,23.0,182.0,76.0,2016,1,22.94408887815481,0,"Canoeing Men's Kayak Singles, Slalom","Joseph ""Joe"" Clarke",Great Britain,Canoeing
+0.6,0.1,0.3,97262,1,23.0,173.0,69.0,2016,0,23.054562464499316,0,"Canoeing Men's Kayak Singles, Slalom",Ji Prskavec,Czech Republic,Canoeing
+0.0,0.2,0.8,64037,0,23.0,178.0,70.0,2016,2,22.093170054286077,0,"Canoeing Women's Kayak Fours, 500 metres",Steffi Kriegerstein,Germany,Canoeing
+0.0,0.8,0.2,24125,0,26.0,176.0,78.0,2016,1,25.180785123966945,0,"Canoeing Women's Kayak Fours, 500 metres",Tamara Csipes,Hungary,Canoeing
+0.1,0.2,0.7,47900,0,24.0,167.0,70.0,2016,2,25.099501595611173,0,"Canoeing Women's Kayak Fours, 500 metres",Sabrina Hering,Germany,Canoeing
+0.0,0.1,0.9,128036,0,29.0,165.0,63.0,2016,2,23.1404958677686,0,"Canoeing Women's Kayak Singles, 200 metres",Marta Walczykiewicz,Poland,Canoeing
+0.0,0.1,0.9,128036,0,29.0,165.0,63.0,2016,2,23.1404958677686,0,"Canoeing Women's Kayak Singles, 200 metres",Marta Walczykiewicz,Poland,Canoeing
+0.9,0.016666666666666666,0.08333333333333334,120513,0,24.0,181.0,67.0,2016,0,20.45114617990904,0,"Canoeing Women's Kayak Singles, 200 metres",Margarita Grigoryevna Tishkevich-Makhneva,Belarus,Canoeing
+0.2,0.1,0.7,56113,0,20.0,169.0,70.0,2016,2,24.508945765204302,0,"Canoeing Women's Kayak Singles, 500 metres",Emma Aastrand Jrgensen,Denmark,Canoeing
+0.2,0.1,0.7,56113,0,20.0,169.0,70.0,2016,2,24.508945765204302,0,"Canoeing Women's Kayak Singles, 500 metres",Emma Aastrand Jrgensen,Denmark,Canoeing
+0.2,0.1,0.7,56113,0,20.0,169.0,70.0,2016,2,24.508945765204302,0,"Canoeing Women's Kayak Singles, 500 metres",Emma Aastrand Jrgensen,Denmark,Canoeing
+0.2,0.3,0.5,55699,0,27.0,172.0,68.0,2016,2,22.985397512168745,0,"Canoeing Women's Kayak Singles, Slalom",Luuka Jones,New Zealand,Canoeing
+0.2,0.3,0.5,55699,0,27.0,172.0,68.0,2016,2,22.985397512168745,0,"Canoeing Women's Kayak Singles, Slalom",Luuka Jones,New Zealand,Canoeing
+0.2,0.3,0.5,55699,0,27.0,172.0,68.0,2016,2,22.985397512168745,0,"Canoeing Women's Kayak Singles, Slalom",Luuka Jones,New Zealand,Canoeing
+0.55,0.2,0.25,93698,1,31.0,180.0,88.0,2016,0,27.160493827160494,0,"Cycling Men's 1,000 metres Time Trial",Franois Pervis,France,Cycling
+0.55,0.2,0.25,93698,1,31.0,180.0,88.0,2016,0,27.160493827160494,0,"Cycling Men's 1,000 metres Time Trial",Franois Pervis,France,Cycling
+0.55,0.2,0.25,93698,1,31.0,180.0,88.0,2016,0,27.160493827160494,0,"Cycling Men's 1,000 metres Time Trial",Franois Pervis,France,Cycling
+0.1,0.0,0.9,124622,1,25.0,187.0,93.0,2016,2,26.59498412879979,0,Cycling Men's BMX,Jelle van Gorkom,Netherlands,Cycling
+0.0,0.9,0.1,35194,1,23.0,183.0,88.0,2016,1,26.27728507868255,0,Cycling Men's BMX,Connor Evan Fields,United States,Cycling
+0.2,0.3,0.5,98637,1,22.0,178.0,65.0,2016,0,20.515086478979924,0,Cycling Men's BMX,Carlos Alberto Ramrez Yepes,Colombia,Cycling
+0.0,0.4,0.6,16055,1,23.0,188.0,90.0,2016,2,25.46401086464464,0,Cycling Men's Keirin,Matthijs Bchli,Netherlands,Cycling
+0.0,0.4,0.6,16055,1,23.0,188.0,90.0,2016,2,25.46401086464464,0,Cycling Men's Keirin,Matthijs Bchli,Netherlands,Cycling
+0.0,0.4,0.6,16055,1,23.0,188.0,90.0,2016,2,25.46401086464464,0,Cycling Men's Keirin,Matthijs Bchli,Netherlands,Cycling
+0.4,0.35,0.25,19155,1,31.0,175.0,70.0,2016,2,22.857142857142858,0,Cycling Men's Madison,Mark Simon Cavendish,Great Britain,Cycling
+0.4,0.35,0.25,19155,1,31.0,175.0,70.0,2016,2,22.857142857142858,0,Cycling Men's Madison,Mark Simon Cavendish,Great Britain,Cycling
+0.4,0.35,0.25,19155,1,31.0,175.0,70.0,2016,2,22.857142857142858,0,Cycling Men's Madison,Mark Simon Cavendish,Great Britain,Cycling
+0.0,0.0,1.0,37463,1,31.0,183.0,69.0,2016,2,20.603780345785182,0,"Cycling Men's Mountainbike, Cross-Country",Jakob Diemer Fuglsang,Denmark,Cycling
+0.4166666666666667,0.1,0.4833333333333333,22498,1,34.0,171.0,65.0,2016,0,22.229061933586404,0,"Cycling Men's Mountainbike, Cross-Country",Carlos Coloma Nicols,Spain,Cycling
+0.4166666666666667,0.1,0.4833333333333333,22498,1,34.0,171.0,65.0,2016,0,22.229061933586404,0,"Cycling Men's Mountainbike, Cross-Country",Carlos Coloma Nicols,Spain,Cycling
+0.2,0.2,0.6,126933,1,27.0,177.0,70.0,2016,1,22.34351559258195,0,"Cycling Men's Road Race, Individual",Elia Viviani,Italy,Cycling
+0.4,0.2,0.4,30601,1,25.0,186.0,70.0,2016,2,20.23355301190889,0,"Cycling Men's Road Race, Individual",Tom Dumoulin,Netherlands,Cycling
+0.5,0.2,0.3,73764,1,26.0,173.0,61.0,2016,0,20.381569714992143,0,"Cycling Men's Road Race, Individual",Rafa Majka,Poland,Cycling
+0.1,0.0,0.9,129185,1,25.0,183.0,80.0,2016,2,23.888440980620494,0,Cycling Men's Sprint,Sam Webster,New Zealand,Cycling
+0.1,0.35,0.55,111660,1,23.0,187.0,93.0,2016,2,26.59498412879979,0,Cycling Men's Sprint,Callum Skinner,Great Britain,Cycling
+0.7,0.1,0.2,28903,1,30.0,177.0,90.0,2016,0,28.72737719046251,0,Cycling Men's Sprint,Denis Sergeyevich Dmitriyev,Russia,Cycling
+0.13333333333333333,0.0,0.8666666666666668,31433,1,22.0,184.0,76.0,2016,2,22.448015122873343,0,"Cycling Men's Team Pursuit, 4,000 metres","Alexander ""Alex"" Edmondson",Australia,Cycling
+0.0,1.0,0.0,29722,1,23.0,181.0,73.0,2016,1,22.28259210646805,0,"Cycling Men's Team Pursuit, 4,000 metres",Owain Daniel John Doull,Great Britain,Cycling
+1.0,0.0,0.0,36092,1,23.0,191.0,82.0,2016,0,22.47745401715962,0,"Cycling Men's Team Pursuit, 4,000 metres",Casper Michael von Folsach,Denmark,Cycling
+0.3,0.0,0.7,80404,1,25.0,180.0,83.0,2016,2,25.61728395061728,0,Cycling Men's Team Sprint,Ethan Mitchell,New Zealand,Cycling
+0.3,0.0,0.7,80404,1,25.0,180.0,83.0,2016,2,25.61728395061728,0,Cycling Men's Team Sprint,Ethan Mitchell,New Zealand,Cycling
+0.3,0.0,0.7,80404,1,25.0,180.0,83.0,2016,2,25.61728395061728,0,Cycling Men's Team Sprint,Ethan Mitchell,New Zealand,Cycling
+0.2,0.1,0.7,96399,0,25.0,158.0,58.0,2016,2,23.233456176894723,0,Cycling Women's BMX,Alise Rose Post,United States,Cycling
+0.5166666666666666,0.3833333333333333,0.1,48085,0,25.0,165.0,65.0,2016,0,23.875114784205696,0,Cycling Women's BMX,Stefany del Carmen Hernndez Mendoza,Venezuela,Cycling
+0.5166666666666666,0.3833333333333333,0.1,48085,0,25.0,165.0,65.0,2016,0,23.875114784205696,0,Cycling Women's BMX,Stefany del Carmen Hernndez Mendoza,Venezuela,Cycling
+0.0,0.7,0.3,101026,0,22.0,165.0,55.0,2016,1,20.202020202020204,0,"Cycling Women's Mountainbike, Cross-Country",Jenny Rissveds,Sweden,Cycling
+0.0,0.7,0.3,101026,0,22.0,165.0,55.0,2016,1,20.202020202020204,0,"Cycling Women's Mountainbike, Cross-Country",Jenny Rissveds,Sweden,Cycling
+0.9,0.0,0.1,92992,0,35.0,166.0,50.0,2016,0,18.144868631151112,0,"Cycling Women's Mountainbike, Cross-Country",Catharine Pendrel,Canada,Cycling
+0.9,0.1,0.0,28031,0,26.0,176.0,64.0,2016,0,20.66115702479339,0,Cycling Women's Omnium,Jolien D'hoore,Belgium,Cycling
+0.9,0.1,0.0,28031,0,26.0,176.0,64.0,2016,0,20.66115702479339,0,Cycling Women's Omnium,Jolien D'hoore,Belgium,Cycling
+0.9,0.1,0.0,28031,0,26.0,176.0,64.0,2016,0,20.66115702479339,0,Cycling Women's Omnium,Jolien D'hoore,Belgium,Cycling
+0.95,0.0,0.05,71235,0,24.0,170.0,59.0,2016,0,20.41522491349481,0,"Cycling Women's Road Race, Individual",Elisa Longo Borghini,Italy,Cycling
+0.5,0.5,0.0,124346,0,26.0,167.0,56.0,2016,1,20.07960127648894,0,"Cycling Women's Road Race, Individual",Anna van der Breggen,Netherlands,Cycling
+0.95,0.0,0.05,71235,0,24.0,170.0,59.0,2016,0,20.41522491349481,0,"Cycling Women's Road Race, Individual",Elisa Longo Borghini,Italy,Cycling
+0.0,0.0,1.0,53471,0,24.0,171.0,66.0,2016,2,22.571047501795427,0,Cycling Women's Sprint,"Rebecca Angharad ""Becky"" James",Great Britain,Cycling
+0.2,0.7,0.1,69817,0,22.0,185.0,90.0,2016,1,26.29656683710737,0,Cycling Women's Sprint,Elis Ligtlee,Netherlands,Cycling
+0.8,0.2,0.0,74782,0,23.0,170.0,72.0,2016,0,24.913494809688583,0,Cycling Women's Sprint,Katy Louise Marchant,Great Britain,Cycling
+0.1,0.1,0.8,123943,0,21.0,176.0,74.0,2016,2,23.889462809917354,0,Cycling Women's Team Pursuit,Jennifer Valente,United States,Cycling
+0.0,0.9333333333333332,0.06666666666666667,7884,0,21.0,168.0,56.0,2016,1,19.841269841269845,0,Cycling Women's Team Pursuit,Elinor Jane Barker,Great Britain,Cycling
+0.8,0.1,0.1,15557,0,29.0,167.0,61.0,2016,0,21.872422819032597,0,Cycling Women's Team Pursuit,Laura Brown,Canada,Cycling
+0.0,0.0,1.0,55461,1,20.0,188.0,80.0,2016,2,22.634676324128566,0,Diving Men's Platform,Steele Alexander Johnson,United States,Diving
+0.4,0.2,0.4,20150,1,20.0,168.0,60.0,2016,1,21.258503401360542,0,Diving Men's Platform,Chen Aisen,China,Diving
+0.4,0.2,0.4,20150,1,20.0,168.0,60.0,2016,1,21.258503401360542,0,Diving Men's Platform,Chen Aisen,China,Diving
+0.1,0.1,0.8,48869,1,22.0,173.0,68.0,2016,2,22.72043837081092,0,Diving Men's Springboard,"Michael ""Mike"" Hixon",United States,Diving
+0.4,0.5,0.1,78006,1,23.0,172.0,70.0,2016,1,23.661438615467823,0,Diving Men's Springboard,"Christopher James ""Chris"" Mears",Great Britain,Diving
+0.4,0.5,0.1,78006,1,23.0,172.0,70.0,2016,1,23.661438615467823,0,Diving Men's Springboard,"Christopher James ""Chris"" Mears",Great Britain,Diving
+0.8,0.1,0.1,41686,1,19.0,167.0,58.0,2016,0,20.7967298935064,0,Diving Men's Synchronized Platform,Daniel Goodfellow,Great Britain,Diving
+0.8,0.1,0.1,41686,1,19.0,167.0,58.0,2016,0,20.7967298935064,0,Diving Men's Synchronized Platform,Daniel Goodfellow,Great Britain,Diving
+0.8,0.1,0.1,41686,1,19.0,167.0,58.0,2016,0,20.7967298935064,0,Diving Men's Synchronized Platform,Daniel Goodfellow,Great Britain,Diving
+0.0,0.1,0.9,29520,1,24.0,175.0,77.0,2016,2,25.142857142857142,0,Diving Men's Synchronized Springboard,Sam Dorman,United States,Diving
+0.0,0.1,0.9,29520,1,24.0,175.0,77.0,2016,2,25.142857142857142,0,Diving Men's Synchronized Springboard,Sam Dorman,United States,Diving
+0.0,0.1,0.9,29520,1,24.0,175.0,77.0,2016,2,25.142857142857142,0,Diving Men's Synchronized Springboard,Sam Dorman,United States,Diving
+0.2,0.7,0.1,99924,0,15.0,162.0,49.0,2016,1,18.670934308794383,0,Diving Women's Platform,Ren Qian,China,Diving
+0.2,0.7,0.1,99924,0,15.0,162.0,49.0,2016,1,18.670934308794383,0,Diving Women's Platform,Ren Qian,China,Diving
+0.5,0.4,0.1,110126,0,17.0,164.0,57.0,2016,2,21.192742415229034,0,Diving Women's Platform,Si Yajie,China,Diving
+0.1,0.1,0.8,20401,0,26.0,150.0,48.0,2016,2,21.33333333333333,0,Diving Women's Springboard,Cheong Jun Hoong,Malaysia,Diving
+0.1,0.85,0.05,109683,0,24.0,159.0,52.0,2016,1,20.56880661366243,0,Diving Women's Springboard,Shi Tingmao,China,Diving
+1.0,0.0,0.0,58392,0,20.0,167.0,62.0,2016,0,22.23098712754133,0,Diving Women's Springboard,Maddison Keeney,Australia,Diving
+0.2,0.7333333333333333,0.06666666666666667,70592,0,18.0,157.0,48.0,2016,1,19.473406629072173,0,Diving Women's Synchronized Platform,Liu Huixia,China,Diving
+0.2,0.7333333333333333,0.06666666666666667,70592,0,18.0,157.0,48.0,2016,1,19.473406629072173,0,Diving Women's Synchronized Platform,Liu Huixia,China,Diving
+0.2,0.7333333333333333,0.06666666666666667,70592,0,18.0,157.0,48.0,2016,1,19.473406629072173,0,Diving Women's Synchronized Platform,Liu Huixia,China,Diving
+0.25,0.0,0.75,25003,0,30.0,163.0,57.0,2016,2,21.453573713726524,0,Diving Women's Synchronized Springboard,Francesca Dallap,Italy,Diving
+0.8,0.1,0.1,112180,0,23.0,168.0,55.0,2016,0,19.48696145124717,0,Diving Women's Synchronized Springboard,Anabelle Smith,Australia,Diving
+0.8,0.1,0.1,112180,0,23.0,168.0,55.0,2016,0,19.48696145124717,0,Diving Women's Synchronized Springboard,Anabelle Smith,Australia,Diving
+0.0,0.1,0.9,11448,0,40.0,173.0,75.0,2016,2,25.05930702662969,0,"Equestrianism Mixed Dressage, Individual",Fiona Clare Bigwood,Great Britain,Equestrianism
+0.0,0.8,0.2,102858,1,21.0,193.0,73.0,2016,1,19.59784155279337,0,"Equestrianism Mixed Dressage, Individual",Snke Rothenberger,Germany,Equestrianism
+0.95,0.05,0.0,93605,0,28.0,163.0,59.0,2016,0,22.20633068613798,0,"Equestrianism Mixed Dressage, Individual",Kasey Perry-Glass,United States,Equestrianism
+0.2,0.2,0.6,25709,0,23.0,165.0,55.0,2016,2,20.202020202020204,0,"Equestrianism Mixed Jumping, Individual",Lucy Davis,United States,Equestrianism
+0.0,0.9,0.1,103104,1,53.0,173.0,63.0,2016,1,21.04981790236894,0,"Equestrianism Mixed Jumping, Individual",Philippe Rozier,France,Equestrianism
+0.7,0.2,0.1,27912,1,34.0,190.0,76.0,2016,0,21.05263157894737,0,"Equestrianism Mixed Jumping, Individual",Daniel Deuer,Germany,Equestrianism
+0.0,0.0,1.0,85876,1,27.0,180.0,70.0,2016,2,21.604938271604937,0,"Equestrianism Mixed Three-Day Event, Individual",Astier Nicolas,France,Equestrianism
+0.0,1.0,0.0,68658,1,32.0,176.0,70.0,2016,1,22.59814049586777,0,"Equestrianism Mixed Three-Day Event, Individual",Mathieu Lemoine,France,Equestrianism
+0.7,0.25,0.05,16759,1,34.0,180.0,70.0,2016,0,21.604938271604937,0,"Equestrianism Mixed Three-Day Event, Individual",Christopher Burton,Australia,Equestrianism
+0.0,0.1,0.9,68286,1,24.0,190.0,80.0,2016,2,22.1606648199446,0,"Fencing Men's Foil, Individual",Enzo-Boris Lefort,France,Fencing
+0.0,0.9,0.1,38841,1,23.0,177.0,65.0,2016,1,20.747550193111813,0,"Fencing Men's Foil, Individual",Daniele Garozzo,Italy,Fencing
+0.7166666666666667,0.2833333333333333,0.0,104227,1,23.0,182.0,82.0,2016,0,24.755464315903875,0,"Fencing Men's Foil, Individual",Timur Marselevich Safin,Russia,Fencing
+0.2,0.2,0.6,121073,1,26.0,177.0,77.0,2016,2,24.577867151840145,0,"Fencing Men's Foil, Team",Jean-Paul Tony Helissey,France,Fencing
+0.2,0.2,0.6,121073,1,26.0,177.0,77.0,2016,2,24.577867151840145,0,"Fencing Men's Foil, Team",Jean-Paul Tony Helissey,France,Fencing
+0.2,0.2,0.6,121073,1,26.0,177.0,77.0,2016,2,24.577867151840145,0,"Fencing Men's Foil, Team",Jean-Paul Tony Helissey,France,Fencing
+0.0,0.1,0.9,49661,1,26.0,173.0,74.0,2016,2,24.72518293294129,0,"Fencing Men's Sabre, Individual",Daryl Homer,United States,Fencing
+0.0,0.1,0.9,49661,1,26.0,173.0,74.0,2016,2,24.72518293294129,0,"Fencing Men's Sabre, Individual",Daryl Homer,United States,Fencing
+0.0,0.1,0.9,49661,1,26.0,173.0,74.0,2016,2,24.72518293294129,0,"Fencing Men's Sabre, Individual",Daryl Homer,United States,Fencing
+0.2,0.1,0.7,38842,1,27.0,190.0,70.0,2016,2,19.390581717451525,0,"Fencing Men's epee, Individual",Enrico Garozzo,Italy,Fencing
+0.0,0.8,0.2,13436,1,27.0,197.0,100.0,2016,1,25.76721894405937,0,"Fencing Men's epee, Individual",Yannick Philippe Andr Borel,France,Fencing
+0.7,0.3,0.0,35147,1,22.0,180.0,74.0,2016,2,22.839506172839503,0,"Fencing Men's epee, Individual",Marco Fichera,Italy,Fencing
+0.1,0.0,0.9,105556,1,23.0,184.0,76.0,2016,2,22.448015122873343,0,"Fencing Men's epee, Team",Andrea Santarelli,Italy,Fencing
+0.3,0.6,0.1,72025,1,38.0,186.0,78.0,2016,1,22.54595907041276,0,"Fencing Men's epee, Team",Jean-Michel Lucenay,France,Fencing
+0.7,0.0,0.3,113034,1,36.0,188.0,85.0,2016,0,24.049343594386603,0,"Fencing Men's epee, Team",Pter Somfai,Hungary,Fencing
+0.7,0.2,0.1,13908,0,27.0,167.0,56.0,2016,0,20.07960127648894,0,"Fencing Women's Foil, Individual",Ins Boubakri,Tunisia,Fencing
+0.7,0.2,0.1,13908,0,27.0,167.0,56.0,2016,0,20.07960127648894,0,"Fencing Women's Foil, Individual",Ins Boubakri,Tunisia,Fencing
+0.7,0.2,0.1,13908,0,27.0,167.0,56.0,2016,0,20.07960127648894,0,"Fencing Women's Foil, Individual",Ins Boubakri,Tunisia,Fencing
+0.2,0.0,0.8,62321,0,23.0,169.0,75.0,2016,2,26.25958474843318,0,"Fencing Women's Sabre, Individual",Alina Ivanivna Komashchuk,Ukraine,Fencing
+0.0,1.0,0.0,132795,0,22.0,175.0,64.0,2016,1,20.897959183673468,0,"Fencing Women's Sabre, Individual",Yana Karapetovna Yegoryan,Russia,Fencing
+1.0,0.0,0.0,82901,0,30.0,170.0,68.0,2016,0,23.529411764705884,0,"Fencing Women's Sabre, Individual",Ibtihaj Muhammad,United States,Fencing
+0.16666666666666666,0.13333333333333333,0.7,127503,0,26.0,165.0,65.0,2016,2,23.875114784205696,0,"Fencing Women's Sabre, Team",Olena Oleksandrivna Voronina,Ukraine,Fencing
+0.5,0.5,0.0,1730,0,26.0,183.0,74.0,2016,0,22.096807907073963,0,"Fencing Women's Sabre, Team",Monica Aksamit,United States,Fencing
+0.5,0.5,0.0,1730,0,26.0,183.0,74.0,2016,0,22.096807907073963,0,"Fencing Women's Sabre, Team",Monica Aksamit,United States,Fencing
+0.0,0.0,1.0,35134,0,25.0,167.0,50.0,2016,2,17.92821542543655,0,"Fencing Women's epee, Individual",Rossella Fiamingo,Italy,Fencing
+0.2,0.8,0.0,96112,0,27.0,178.0,62.0,2016,1,19.56823633379624,0,"Fencing Women's epee, Individual",Simona Pop (Deac-),Romania,Fencing
+1.0,0.0,0.0,62254,0,25.0,176.0,64.0,2016,0,20.66115702479339,0,"Fencing Women's epee, Individual",Violetta Vitalyevna Kolobova,Russia,Fencing
+0.18,0.12,0.7,45877,0,28.0,176.0,66.0,2016,2,21.306818181818183,0,"Fencing Women's epee, Team",Hao Jialu,China,Fencing
+0.0,0.9,0.1,28685,0,32.0,168.0,60.0,2016,1,21.258503401360542,0,"Fencing Women's epee, Team",Loredana Dinu (Iordchioiu-),Romania,Fencing
+0.18,0.12,0.7,45877,0,28.0,176.0,66.0,2016,2,21.306818181818183,0,"Fencing Women's epee, Team",Hao Jialu,China,Fencing
+0.0,0.0,1.0,8715,1,21.0,183.0,76.0,2016,2,22.69401893158948,0,Football Men's Football,Robert Bauer,Germany,Football
+0.0,1.0,0.0,128021,1,21.0,188.0,75.0,2016,1,21.22000905387053,1,Football Men's Football,Walace Souza Silva,Brazil,Football
+0.9,0.0,0.1,6352,1,19.0,170.0,68.0,2016,0,23.529411764705884,0,Football Men's Football,Okechukwu Godson Azubuike,Nigeria,Football
+0.0,0.0,1.0,32979,0,22.0,172.0,66.0,2016,2,22.30935640886966,0,Football Women's Football,"Magdalena ""Magda"" Eriksson",Sweden,Football
+0.0,1.0,0.0,47672,0,26.0,175.0,68.0,2016,1,22.20408163265306,0,Football Women's Football,Josephine Henning,Germany,Football
+0.9,0.0,0.1,19835,0,27.0,160.0,56.0,2016,0,21.875,0,Football Women's Football,Allysha Chapman,Canada,Football
+0.2,0.1,0.7,114934,1,40.0,188.0,86.0,2016,2,24.332277048438208,0,Golf Men's Individual,Henrik Olof Stenson,Sweden,Golf
+0.2,0.1,0.7,114934,1,40.0,188.0,86.0,2016,2,24.332277048438208,0,Golf Men's Individual,Henrik Olof Stenson,Sweden,Golf
+0.6,0.0,0.4,64576,1,38.0,193.0,86.0,2016,0,23.087868130688072,0,Golf Men's Individual,"Matthew Gregory ""Matt"" Kuchar",United States,Golf
+0.3,0.3,0.4,34618,0,26.0,170.0,85.0,2016,0,29.411764705882355,0,Golf Women's Individual,Feng Shanshan,China,Golf
+0.1,0.9,0.0,91521,0,28.0,168.0,65.0,2016,1,23.030045351473927,0,Golf Women's Individual,Park In-Bee,South Korea,Golf
+0.3,0.3,0.4,34618,0,26.0,170.0,85.0,2016,0,29.411764705882355,0,Golf Women's Individual,Feng Shanshan,China,Golf
+0.0,1.0,0.0,100351,1,31.0,155.0,54.0,2016,1,22.476586888657646,0,Gymnastics Men's Horse Vault,Ri Se-Gwang,North Korea,Gymnastics
+0.0,1.0,0.0,100351,1,31.0,155.0,54.0,2016,1,22.476586888657646,0,Gymnastics Men's Horse Vault,Ri Se-Gwang,North Korea,Gymnastics
+0.0,1.0,0.0,100351,1,31.0,155.0,54.0,2016,1,22.476586888657646,0,Gymnastics Men's Horse Vault,Ri Se-Gwang,North Korea,Gymnastics
+0.2,0.05,0.75,84138,1,19.0,166.0,67.0,2016,2,24.31412396574249,0,Gymnastics Men's Individual All-Around,Nikita Vladimirovich Nagorny,Russia,Gymnastics
+0.2,0.5,0.3,126096,1,22.0,161.0,55.0,2016,2,21.218317194552675,0,Gymnastics Men's Individual All-Around,Oleh Yuriyovych Verniaiev,Ukraine,Gymnastics
+0.8333333333333334,0.06666666666666667,0.1,69955,1,20.0,163.0,60.0,2016,0,22.582709172343712,0,Gymnastics Men's Individual All-Around,Lin Chaopan,China,Gymnastics
+0.0,0.8,0.2,94094,1,25.0,164.0,62.0,2016,1,23.051754907792983,0,Gymnastics Men's Rings,Eleftherios Petrounias,Greece,Gymnastics
+0.0,0.8,0.2,94094,1,25.0,164.0,62.0,2016,1,23.051754907792983,0,Gymnastics Men's Rings,Eleftherios Petrounias,Greece,Gymnastics
+0.0,0.8,0.2,94094,1,25.0,164.0,62.0,2016,1,23.051754907792983,0,Gymnastics Men's Rings,Eleftherios Petrounias,Greece,Gymnastics
+0.1,0.1,0.8,115758,1,19.0,170.0,59.0,2016,2,20.41522491349481,0,Gymnastics Men's Team All-Around,Ivan Alekseyevich Stretovich,Russia,Gymnastics
+0.0,0.6,0.4,109869,1,19.0,162.0,51.0,2016,1,19.43301326017375,0,Gymnastics Men's Team All-Around,Kenzo Shirai,Japan,Gymnastics
+0.7,0.0,0.3,84014,1,25.0,170.0,70.0,2016,0,24.221453287197235,0,Gymnastics Men's Team All-Around,"Alexander Michael ""Alex"" Naddour",United States,Gymnastics
+0.1,0.1,0.8,122858,0,17.0,146.0,43.0,2016,2,20.17264027021956,0,Gymnastics Women's Individual All-Around,Seda Gurgenovna Tutkhalyan,Russia,Gymnastics
+0.4211904761904762,0.5788095238095238,0.0,11495,0,19.0,143.0,47.0,2016,1,22.984008997995016,0,Gymnastics Women's Individual All-Around,Simone Arianne Biles,United States,Gymnastics
+0.9,0.0,0.1,128618,0,16.0,140.0,33.0,2016,0,16.836734693877553,0,Gymnastics Women's Individual All-Around,Wang Yan,China,Gymnastics
+0.0,0.0,1.0,48041,0,16.0,152.0,49.0,2016,1,21.208448753462605,0,Gymnastics Women's Team All-Around,"Lauren Zoe ""Laurie"" Hernandez",United States,Gymnastics
+0.1,0.8166666666666667,0.08333333333333333,113892,0,18.0,156.0,45.0,2016,2,18.49112426035503,0,Gymnastics Women's Team All-Around,Darya Sergeyevna Spiridonova,Russia,Gymnastics
+1.0,0.0,0.0,74678,0,16.0,151.0,35.0,2016,0,15.350203938423752,0,Gymnastics Women's Team All-Around,Mao Yi,China,Gymnastics
+0.0,0.1,0.9,28727,1,28.0,202.0,105.0,2016,2,25.732771296931677,0,Handball Men's Handball,Adrien Dipanda,France,Handball
+0.0,1.0,0.0,45732,1,29.0,200.0,105.0,2016,1,26.25,0,Handball Men's Handball,Henrik Toft Hansen,Denmark,Handball
+1.0,0.0,0.0,130204,1,22.0,194.0,94.0,2016,0,24.97608672547561,0,Handball Men's Handball,Fabian Wiede,Germany,Handball
+0.0,0.0,1.0,40724,0,22.0,178.0,65.0,2016,2,20.515086478979924,0,Handball Women's Handball,Laura Glauser,France,Handball
+0.0,1.0,0.0,64109,0,26.0,175.0,68.0,2016,0,22.20408163265306,0,Handball Women's Handball,Veronica Egebakken Kristiansen,Norway,Handball
+0.75,0.05,0.2,82763,0,25.0,168.0,63.0,2016,0,22.321428571428577,0,Handball Women's Handball,Nora Mrk,Norway,Handball
+0.0,0.0,1.0,13327,1,26.0,184.0,81.0,2016,2,23.92485822306238,0,Hockey Men's Hockey,Tom Boon,Belgium,Hockey
+0.0,1.0,0.0,77139,1,27.0,173.0,77.0,2016,1,25.72755521400648,0,Hockey Men's Hockey,Agustn Alejandro Mazzilli,Argentina,Hockey
+1.0,0.0,0.0,16947,1,29.0,186.0,83.0,2016,0,23.991212856977683,0,Hockey Men's Hockey,Linus Butt,Germany,Hockey
+0.1,0.0,0.9,58396,0,23.0,172.0,66.0,2016,2,22.30935640886966,0,Hockey Women's Hockey,Marloes Keetels,Netherlands,Hockey
+0.13333333333333333,0.8666666666666668,0.0,48665,0,27.0,168.0,62.0,2016,1,21.9671201814059,0,Hockey Women's Hockey,"Madeline Clare ""Maddie"" Hinch",Great Britain,Hockey
+1.0,0.0,0.0,64327,0,27.0,173.0,67.0,2016,0,22.386314277122523,0,Hockey Women's Hockey,Hannah Krger,Germany,Hockey
+0.0,0.1,0.9,112113,1,23.0,167.0,60.0,2016,2,21.513858510523864,0,Judo Men's Extra-Lightweight,Yeldos Bakhtybayevich Smetov,Kazakhstan,Judo
+0.1,0.8,0.1,82859,1,30.0,166.0,60.0,2016,1,21.773842357381334,0,Judo Men's Extra-Lightweight,Beslan Zaudinovich Mudranov,Russia,Judo
+0.9,0.0,0.1,123501,1,22.0,172.0,60.0,2016,0,20.281233098972415,0,Judo Men's Extra-Lightweight,Diyorbek Urozboyev,Uzbekistan,Judo
+0.2,0.5,0.3,44679,1,25.0,186.0,100.0,2016,0,28.90507573129841,0,Judo Men's Half-Heavyweight,Ryunosuke Haga,Japan,Judo
+0.0,0.9,0.1,64292,1,25.0,197.0,105.0,2016,1,27.055579891262337,0,Judo Men's Half-Heavyweight,Luk Krplek,Czech Republic,Judo
+0.5,0.3,0.2,74942,1,28.0,189.0,108.0,2016,0,30.234315948601665,0,Judo Men's Half-Heavyweight,Cyrille Maret,France,Judo
+0.2,0.1,0.7,3566,1,22.0,169.0,66.0,2016,2,23.1084345786212,0,Judo Men's Half-Lightweight,An Ba-Ul,South Korea,Judo
+0.2,0.1,0.7,3566,1,22.0,169.0,66.0,2016,2,23.1084345786212,0,Judo Men's Half-Lightweight,An Ba-Ul,South Korea,Judo
+0.375,0.1,0.525,8452,1,21.0,160.0,66.0,2016,1,25.78125,0,Judo Men's Half-Lightweight,Fabio Basile,Italy,Judo
+0.7,0.2,0.1,115095,1,30.0,181.0,80.0,2016,2,24.41927902078691,0,Judo Men's Half-Middleweight,Travis Stevens,United States,Judo
+0.3,0.7,0.0,59097,1,22.0,182.0,81.0,2016,1,24.45356840961236,0,Judo Men's Half-Middleweight,Khasan Magometovich Khalmurzayev,Russia,Judo
+0.7,0.3,0.0,84093,1,22.0,181.0,81.0,2016,0,24.724520008546747,0,Judo Men's Half-Middleweight,Takanori Nagase,Japan,Judo
+0.1,0.3,0.6,45940,1,24.0,191.0,125.0,2016,2,34.264411611523805,0,Judo Men's Heavyweight,Hisayoshi Harasawa,Japan,Judo
+0.1,0.3,0.6,45940,1,24.0,191.0,125.0,2016,2,34.264411611523805,0,Judo Men's Heavyweight,Hisayoshi Harasawa,Japan,Judo
+0.3333333333333333,0.3,0.36666666666666664,105958,1,25.0,193.0,120.0,2016,0,32.21562994979731,0,Judo Men's Heavyweight,Or Sasson,Israel,Judo
+0.1,0.1,0.8,89632,1,24.0,179.0,73.0,2016,2,22.783308885490467,0,Judo Men's Lightweight,Rstm Orucov,Azerbaijan,Judo
+0.7,0.2,0.1,124944,1,32.0,173.0,73.0,2016,0,24.3910588392529,0,Judo Men's Lightweight,Dirk Van Tichelt,Belgium,Judo
+1.0,0.0,0.0,89186,1,24.0,170.0,73.0,2016,1,25.25951557093426,0,Judo Men's Lightweight,Shohei Ono,Japan,Judo
+0.1,0.0,0.9,70385,1,27.0,187.0,94.0,2016,2,26.88095170007721,0,Judo Men's Middleweight,Varlam Lip'art'eliani,Georgia,Judo
+0.0,0.9,0.1,7026,1,21.0,178.0,90.0,2016,1,28.40550435551067,0,Judo Men's Middleweight,Mashu Baker,Japan,Judo
+0.9,0.0,0.1,20386,1,25.0,185.0,90.0,2016,0,26.29656683710737,0,Judo Men's Middleweight,Cheng Xunzhao,China,Judo
+0.6,0.1,0.3,54503,0,25.0,153.0,51.0,2016,2,21.78649237472767,0,Judo Women's Extra-Lightweight,Jeong Bo-Kyeong,South Korea,Judo
+0.7,0.2,0.1,38011,0,24.0,170.0,63.0,2016,0,21.79930795847751,0,Judo Women's Extra-Lightweight,Otgontsetseg Galbadrakhyn,Kazakhstan,Judo
+0.8,0.0,0.2,62386,0,21.0,156.0,48.0,2016,0,19.72386587771203,0,Judo Women's Extra-Lightweight,Ami Kondo,Japan,Judo
+0.8,0.2,0.0,125754,0,25.0,178.0,78.0,2016,0,24.61810377477591,0,Judo Women's Half-Heavyweight,"Anamari ""Ana"" Velenek",Slovenia,Judo
+0.8,0.2,0.0,125754,0,25.0,178.0,78.0,2016,0,24.61810377477591,0,Judo Women's Half-Heavyweight,"Anamari ""Ana"" Velenek",Slovenia,Judo
+0.8,0.2,0.0,125754,0,25.0,178.0,78.0,2016,0,24.61810377477591,0,Judo Women's Half-Heavyweight,"Anamari ""Ana"" Velenek",Slovenia,Judo
+0.1,0.1,0.8,40617,0,21.0,160.0,52.0,2016,2,20.3125,0,Judo Women's Half-Lightweight,Odette Giuffrida,Italy,Judo
+0.33999999999999997,0.6599999999999999,0.0,58601,0,25.0,162.0,52.0,2016,1,19.81405273586343,0,Judo Women's Half-Lightweight,Majlinda Kelmendi,Albania,Judo
+1.0,0.0,0.0,65424,0,27.0,160.0,52.0,2016,0,20.3125,0,Judo Women's Half-Lightweight,Nataliya Yuryevna Kuzyutina,Russia,Judo
+0.1,0.2,0.7,1131,0,23.0,164.0,66.0,2016,2,24.538964901844142,0,Judo Women's Half-Middleweight,Clarisse Agbegnenou,France,Judo
+0.1,0.8,0.1,122097,0,25.0,162.0,65.0,2016,1,24.76756591982929,0,Judo Women's Half-Middleweight,Tina Trstenjak,Slovenia,Judo
+0.7,0.2,0.1,39695,0,27.0,169.0,63.0,2016,0,22.058051188683876,0,Judo Women's Half-Middleweight,Yarden Gerbi,Israel,Judo
+0.8,0.1,0.1,132243,0,25.0,172.0,108.0,2016,0,36.50621957815036,0,Judo Women's Heavyweight,Kanae Yamabe,Japan,Judo
+0.3,0.7,0.0,3672,0,28.0,170.0,97.0,2016,1,33.564013840830455,0,Judo Women's Heavyweight,milie Andol,France,Judo
+0.9,0.0,0.1,133368,0,29.0,182.0,128.0,2016,0,38.64267600531336,0,Judo Women's Heavyweight,Yu Song,China,Judo
+0.1,0.0,0.9,29513,0,25.0,160.0,59.0,2016,2,23.046875,0,Judo Women's Lightweight,Dorjsurengiin Sumiya,Mongolia,Judo
+0.0,0.9,0.1,110549,0,24.0,169.0,57.0,2016,1,19.95728440880922,1,Judo Women's Lightweight,Rafaela Lopes Silva,Brazil,Judo
+0.1,0.0,0.9,29513,0,25.0,160.0,59.0,2016,2,23.046875,0,Judo Women's Lightweight,Dorjsurengiin Sumiya,Mongolia,Judo
+0.0,0.6,0.4,117729,0,26.0,168.0,70.0,2016,1,24.801587301587304,0,Judo Women's Middleweight,Haruka Tachimoto,Japan,Judo
+0.0,0.6,0.4,117729,0,26.0,168.0,70.0,2016,1,24.801587301587304,0,Judo Women's Middleweight,Haruka Tachimoto,Japan,Judo
+0.85,0.0,0.15,125307,0,26.0,173.0,70.0,2016,0,23.38868655818771,0,Judo Women's Middleweight,Laura Vargas Koch,Germany,Judo
+0.2,0.0,0.8,122954,1,29.0,192.0,78.0,2016,2,21.158854166666668,0,Modern Pentathlon Men's Individual,Pavlo Yuriyovych Tymoshchenko,Ukraine,Modern Pentathlon
+0.1,0.8,0.1,69026,1,28.0,185.0,74.0,2016,1,21.62162162162162,0,Modern Pentathlon Men's Individual,Aleksandr Leonidovich Lesun,Russia,Modern Pentathlon
+0.7,0.2,0.1,48025,1,26.0,178.0,64.0,2016,0,20.199469763918696,0,Modern Pentathlon Men's Individual,Ismael Marcelo Hernndez Uscanga,Mexico,Modern Pentathlon
+0.0,0.1,0.9,22093,0,27.0,182.0,69.0,2016,2,20.830817534114235,0,Modern Pentathlon Women's Individual,lodie Pascaline Clouvel,France,Modern Pentathlon
+0.3,0.7,0.0,33241,0,24.0,168.0,55.0,2016,1,19.48696145124717,0,Modern Pentathlon Women's Individual,Chloe Esposito,Australia,Modern Pentathlon
+0.3,0.7,0.0,33241,0,24.0,168.0,55.0,2016,1,19.48696145124717,0,Modern Pentathlon Women's Individual,Chloe Esposito,Australia,Modern Pentathlon
+0.0,0.0,1.0,97865,0,24.0,175.0,55.0,2016,2,17.959183673469386,0,Rhythmic Gymnastics Women's Group,Alejandra Quereda Flores,Spain,Rhythmic Gymnastics
+0.1,0.8,0.1,11739,0,18.0,168.0,47.0,2016,1,16.65249433106576,0,Rhythmic Gymnastics Women's Group,Vera Leonidovna Biryukova,Russia,Rhythmic Gymnastics
+1.0,0.0,0.0,57035,0,25.0,170.0,53.0,2016,0,18.339100346020764,0,Rhythmic Gymnastics Women's Group,Reneta Kamberova,Bulgaria,Rhythmic Gymnastics
+0.1,0.8,0.1,64658,0,18.0,170.0,47.0,2016,2,16.262975778546714,0,Rhythmic Gymnastics Women's Individual,Yana Alekseyevna Kudryavtseva,Russia,Rhythmic Gymnastics
+0.0,1.0,0.0,74270,0,20.0,170.0,50.0,2016,1,17.301038062283737,0,Rhythmic Gymnastics Women's Individual,Margarita Abdullayevna Mamun,Russia,Rhythmic Gymnastics
+0.8,0.2,0.0,101183,0,23.0,173.0,49.0,2016,0,16.372080590731397,0,Rhythmic Gymnastics Women's Individual,Hanna Serhivna Rizatdinova,Ukraine,Rhythmic Gymnastics
+0.0,0.0,1.0,13359,1,25.0,190.0,93.0,2016,2,25.7617728531856,0,Rowing Men's Coxed Eights,"Joshua ""Josh"" Booth",Australia,Rowing
+0.1,0.9,0.0,30808,1,28.0,196.0,96.0,2016,1,24.989587671803417,0,Rowing Men's Coxed Eights,Scott David Durant,Great Britain,Rowing
+0.9,0.0,0.1,130298,1,22.0,201.0,102.0,2016,0,25.246899829212158,0,Rowing Men's Coxed Eights,Tone Wieten,Netherlands,Rowing
+0.0,0.1,0.9,48553,1,23.0,194.0,92.0,2016,2,24.44468062493357,0,Rowing Men's Coxless Fours,"Alexander ""Alex"" Hill",Australia,Rowing
+0.31666666666666665,0.6833333333333333,0.0,126144,1,29.0,197.0,95.0,2016,0,24.4788579968564,0,Rowing Men's Coxless Fours,"Pieter Gilles ""Mechiel"" Versluis",Netherlands,Rowing
+0.9,0.0,0.1,79256,1,32.0,195.0,93.0,2016,0,24.45759368836292,0,Rowing Men's Coxless Fours,Boaz Cornelius Meylink,Netherlands,Rowing
+0.1,0.0,0.9,15181,1,25.0,187.0,94.0,2016,2,26.88095170007721,0,Rowing Men's Coxless Pairs,Lawrence Brittain,South Africa,Rowing
+0.205,0.745,0.05,29899,1,27.0,200.0,102.0,2016,2,25.5,0,Rowing Men's Coxless Pairs,Felix Drahotta,Germany,Rowing
+0.9,0.0,0.1,62,1,21.0,198.0,90.0,2016,0,22.95684113865932,0,Rowing Men's Coxless Pairs,Giovanni Abagnale,Italy,Rowing
+0.2,0.1,0.7,101070,1,27.0,202.0,110.0,2016,2,26.958141358690323,0,Rowing Men's Double Sculls,Saulius Ritter,Lithuania,Rowing
+0.7,0.3,0.0,13395,1,26.0,193.0,84.0,2016,0,22.55094096485812,0,Rowing Men's Double Sculls,Kjetil Borch,Norway,Rowing
+0.7,0.3,0.0,13395,1,26.0,193.0,84.0,2016,0,22.55094096485812,0,Rowing Men's Double Sculls,Kjetil Borch,Norway,Rowing
+0.06666666666666667,0.2333333333333333,0.7,66805,1,28.0,182.0,73.0,2016,2,22.03840115928028,0,Rowing Men's Lightweight Coxless Fours,Jacob Sgaard Larsen,Denmark,Rowing
+0.0,0.7,0.3,44384,1,31.0,187.0,76.0,2016,1,21.7335354170837,0,Rowing Men's Lightweight Coxless Fours,Mario-Elio Gyr,Switzerland,Rowing
+1.0,0.0,0.0,22307,1,24.0,187.0,70.0,2016,0,20.0177299894192,0,Rowing Men's Lightweight Coxless Fours,Thibault Colard,France,Rowing
+0.0,0.0,1.0,87963,1,22.0,177.0,70.0,2016,2,22.34351559258195,0,Rowing Men's Lightweight Double Sculls,Paul O'Donovan,Ireland,Rowing
+0.1,0.6,0.3,6346,1,27.0,178.0,71.0,2016,1,22.408786769347305,0,Rowing Men's Lightweight Double Sculls,Jrmie Azou,France,Rowing
+0.9,0.0,0.1,15743,1,28.0,175.0,70.0,2016,0,22.857142857142858,0,Rowing Men's Lightweight Double Sculls,Kristoffer Brun,Norway,Rowing
+0.0,0.2,0.8,40549,1,28.0,190.0,92.0,2016,2,25.48476454293629,0,Rowing Men's Quadruple Sculls,Cameron Girdlestone,Australia,Rowing
+0.1,0.8,0.1,43300,1,27.0,193.0,92.0,2016,1,24.69864962817794,0,Rowing Men's Quadruple Sculls,Hans Gruhne,Germany,Rowing
+0.9,0.1,0.0,53547,1,34.0,184.0,90.0,2016,0,26.583175803402646,0,Rowing Men's Quadruple Sculls,Andrei Jms,Estonia,Rowing
+0.3,0.1,0.6,43037,1,30.0,190.0,92.0,2016,2,25.48476454293629,0,Rowing Men's Single Sculls,Mindaugas Grikonis,Lithuania,Rowing
+0.3,0.1,0.6,43037,1,30.0,190.0,92.0,2016,2,25.48476454293629,0,Rowing Men's Single Sculls,Mindaugas Grikonis,Lithuania,Rowing
+0.3,0.1,0.6,43037,1,30.0,190.0,92.0,2016,2,25.48476454293629,0,Rowing Men's Single Sculls,Mindaugas Grikonis,Lithuania,Rowing
+0.0,0.0,1.0,26718,0,29.0,172.0,58.0,2016,2,19.60519199567334,0,Rowing Women's Coxed Eights,Zoe Michaela  de Toledo,Great Britain,Rowing
+0.0,1.0,0.0,110718,0,27.0,183.0,82.0,2016,1,24.48565200513601,0,Rowing Women's Coxed Eights,Kerry Simmonds,United States,Rowing
+0.8,0.1,0.1,12757,0,24.0,186.0,78.0,2016,0,22.54595907041276,0,Rowing Women's Coxed Eights,Andreea Boghian,Romania,Rowing
+0.2,0.65,0.15,9432,0,25.0,183.0,73.0,2016,2,21.798202394816204,0,Rowing Women's Coxless Pairs,"Genevieve ""Gen"" Behrent",New Zealand,Rowing
+0.2,0.65,0.15,9432,0,25.0,183.0,73.0,2016,2,21.798202394816204,0,Rowing Women's Coxless Pairs,"Genevieve ""Gen"" Behrent",New Zealand,Rowing
+1.0,0.0,0.0,10341,0,23.0,186.0,75.0,2016,0,21.678806798473808,0,Rowing Women's Coxless Pairs,Mdlina Bere,Romania,Rowing
+0.4,0.0,0.6,53798,0,27.0,182.0,74.0,2016,2,22.34029706557179,0,Rowing Women's Double Sculls,Inge Janssen,Netherlands,Rowing
+0.8,0.2,0.0,22249,0,29.0,180.0,72.0,2016,0,22.22222222222222,0,Rowing Women's Double Sculls,Roxana Gabriela Cogianu,Romania,Rowing
+0.8,0.2,0.0,22249,0,29.0,180.0,72.0,2016,0,22.22222222222222,0,Rowing Women's Double Sculls,Roxana Gabriela Cogianu,Romania,Rowing
+0.2,0.1,0.7,54302,0,34.0,165.0,59.0,2016,2,21.6712580348944,0,Rowing Women's Lightweight Double Sculls,Lindsay Jennerich,Canada,Rowing
+0.0,0.9,0.1,46951,0,32.0,173.0,59.0,2016,1,19.71332152761536,0,Rowing Women's Lightweight Double Sculls,Maaike Christiane Head,Netherlands,Rowing
+0.7,0.3,0.0,90936,0,27.0,173.0,57.0,2016,0,19.045073340238563,0,Rowing Women's Lightweight Double Sculls,Pan Feihong,China,Rowing
+0.0,0.1,0.9,130868,0,32.0,184.0,75.0,2016,2,22.152646502835537,0,Rowing Women's Quadruple Sculls,Melanie Kate Wilson,Great Britain,Rowing
+0.1,0.8,0.1,107069,0,25.0,173.0,76.0,2016,1,25.393431120318084,0,Rowing Women's Quadruple Sculls,Lisa Schmidla,Germany,Rowing
+0.9,0.1,0.0,21492,0,24.0,182.0,74.0,2016,0,22.34029706557179,0,Rowing Women's Quadruple Sculls,Monika Ciaciuch,Poland,Rowing
+0.0,0.0,1.0,115459,0,31.0,183.0,71.0,2016,2,21.20099137030069,0,Rowing Women's Single Sculls,"Genevra ""Gevvie"" Stone",United States,Rowing
+0.6,0.3,0.1,126862,0,27.0,170.0,62.0,2016,0,21.45328719723184,0,Rowing Women's Single Sculls,Donata Vitartait,Lithuania,Rowing
+0.8,0.2,0.0,30216,0,27.0,180.0,76.0,2016,0,23.456790123456788,0,Rowing Women's Single Sculls,Duan Jingli,China,Rowing
+0.1,0.0,0.9,25627,1,25.0,181.0,98.0,2016,2,29.913616800463966,0,Rugby Sevens Men's Rugby Sevens,James Davies,Great Britain,Rugby Sevens
+0.0,1.0,0.0,84361,1,28.0,198.0,109.0,2016,1,27.803285379042958,0,Rugby Sevens Men's Rugby Sevens,Leone Nakarawa,Fiji,Rugby Sevens
+0.9,0.1,0.0,15554,1,29.0,182.0,92.0,2016,0,27.77442337881898,0,Rugby Sevens Men's Rugby Sevens,Kyle Gie Brown,South Africa,Rugby Sevens
+0.0,0.0,1.0,35651,0,21.0,168.0,75.0,2016,2,26.573129251700685,0,Rugby Sevens Women's Rugby Sevens,Theresa Matauaina Fitzpatrick,New Zealand,Rugby Sevens
+0.0,0.9,0.1,9181,0,28.0,168.0,66.0,2016,1,23.384353741496604,0,Rugby Sevens Women's Rugby Sevens,Nicole Elise Beck,Australia,Rugby Sevens
+0.9,0.1,0.0,10140,0,27.0,165.0,68.0,2016,0,24.977043158861346,0,Rugby Sevens Women's Rugby Sevens,"Brittany ""Britt"" Benn",Canada,Rugby Sevens
+0.2,0.1,0.7,115260,1,30.0,178.0,81.0,2016,2,25.5649539199596,0,Sailing Men's One Person Dinghy,Toni Stipanovi,Croatia,Sailing
+0.1,0.8,0.1,16773,1,26.0,180.0,81.0,2016,1,25.0,0,Sailing Men's One Person Dinghy,Tom Burton,Australia,Sailing
+0.8,0.0,0.2,78120,1,25.0,183.0,81.0,2016,0,24.187046492878256,0,Sailing Men's One Person Dinghy,Sam Meech,New Zealand,Sailing
+0.7,0.2,0.1,90604,1,25.0,191.0,98.0,2016,0,26.863298703434666,0,Sailing Men's One Person Heavyweight Dinghy,Caleb Paine,United States,Sailing
+0.31666666666666665,0.6833333333333333,0.0,108000,1,29.0,197.0,95.0,2016,1,24.4788579968564,0,Sailing Men's One Person Heavyweight Dinghy,Giles Lyndon Scott,Great Britain,Sailing
+0.7,0.2,0.1,90604,1,25.0,191.0,98.0,2016,0,26.863298703434666,0,Sailing Men's One Person Heavyweight Dinghy,Caleb Paine,United States,Sailing
+0.6,0.0,0.4,47228,1,26.0,185.0,80.0,2016,0,23.37472607742878,0,Sailing Men's Skiff,Erik Heil,Germany,Sailing
+0.8,0.1,0.1,95494,1,28.0,181.0,80.0,2016,0,24.41927902078691,0,Sailing Men's Skiff,Thomas Plel,Germany,Sailing
+0.8,0.1,0.1,95494,1,28.0,181.0,80.0,2016,0,24.41927902078691,0,Sailing Men's Skiff,Thomas Plel,Germany,Sailing
+0.1,0.2,0.7,103807,1,27.0,193.0,75.0,2016,2,20.13476871862332,0,Sailing Men's Two Person Dinghy,"William ""Will"" Ryan",Australia,Sailing
+0.0,1.0,0.0,74929,1,30.0,173.0,70.0,2016,1,23.38868655818771,0,Sailing Men's Two Person Dinghy,Igor Mareni,Croatia,Sailing
+0.8,0.1,0.1,56643,1,32.0,184.0,74.0,2016,0,21.85727788279773,0,Sailing Men's Two Person Dinghy,Pavlos Kagialis,Greece,Sailing
+0.8,0.1,0.1,67498,1,27.0,186.0,72.0,2016,0,20.811654526534856,0,Sailing Men's Windsurfer,Pierre Le Coq,France,Sailing
+0.8,0.1,0.1,67498,1,27.0,186.0,72.0,2016,0,20.811654526534856,0,Sailing Men's Windsurfer,Pierre Le Coq,France,Sailing
+0.8,0.1,0.1,67498,1,27.0,186.0,72.0,2016,0,20.811654526534856,0,Sailing Men's Windsurfer,Pierre Le Coq,France,Sailing
+0.2,0.0,0.8,128920,1,24.0,185.0,75.0,2016,2,21.91380569758948,0,Sailing Mixed Multihull,Jason Waterhouse,Australia,Sailing
+0.725,0.175,0.1,36763,0,23.0,167.0,57.0,2016,0,20.43816558499767,0,Sailing Mixed Multihull,Tanja Chiara Frank,Austria,Sailing
+0.9,0.0,0.1,133737,1,30.0,180.0,77.0,2016,0,23.76543209876543,0,Sailing Mixed Multihull,Thomas Zajac,Austria,Sailing
+0.2,0.15,0.65,83509,0,26.0,184.0,72.0,2016,2,21.26654064272212,0,Sailing Women's One Person Dinghy,Annalise Murphy,Ireland,Sailing
+0.1,0.6,0.3,18500,0,29.0,164.0,63.0,2016,1,23.423557406305772,0,Sailing Women's One Person Dinghy,Cecilia Carranza Saroli,Argentina,Sailing
+0.8,0.0,0.2,100902,0,25.0,170.0,68.0,2016,0,23.529411764705884,0,Sailing Women's One Person Dinghy,Anne-Marie Rindom,Denmark,Sailing
+0.0,0.1,0.9,78119,0,23.0,178.0,74.0,2016,2,23.355636914530997,0,Sailing Women's Skiff,Molly Meech,New Zealand,Sailing
+0.2,0.8,0.0,42228,0,25.0,168.0,62.0,2016,1,21.9671201814059,1,Sailing Women's Skiff,Martine Soffiatti Grael,Brazil,Sailing
+1.0,0.0,0.0,104866,0,21.0,173.0,70.0,2016,0,23.38868655818771,0,Sailing Women's Skiff,Katja Steen Salskov-Iversen,Denmark,Sailing
+0.6,0.1,0.3,26991,0,29.0,179.0,66.0,2016,0,20.598608033457133,0,Sailing Women's Two Person Dinghy,Hlne Defrance,France,Sailing
+0.6,0.1,0.3,26991,0,29.0,179.0,66.0,2016,0,20.598608033457133,0,Sailing Women's Two Person Dinghy,Hlne Defrance,France,Sailing
+0.75,0.0,0.25,67719,0,31.0,159.0,56.0,2016,0,22.15102250702108,0,Sailing Women's Two Person Dinghy,Camille Lecointre,France,Sailing
+0.16666666666666666,0.0,0.8333333333333334,20247,0,27.0,172.0,63.0,2016,2,21.29529475392104,0,Sailing Women's Windsurfer,Chen Peina,China,Sailing
+0.0,0.9,0.1,94642,0,31.0,169.0,57.0,2016,1,19.95728440880922,0,Sailing Women's Windsurfer,Charline Picon,France,Sailing
+0.425,0.1,0.475,32254,0,19.0,170.0,59.0,2016,0,20.41522491349481,0,Sailing Women's Windsurfer,Stefaniya Aleksandrovna Elfutina,Russia,Sailing
+0.0,0.1,0.9,48966,1,41.0,175.0,75.0,2016,1,24.489795918367346,0,"Shooting Men's Air Pistol, 10 metres",Hong Xun Vinh,Vietnam,Shooting
+0.1,0.2,0.7,131784,1,24.0,169.0,69.0,2016,2,24.158817968558527,1,"Shooting Men's Air Pistol, 10 metres",Felipe Almeida Wu,Brazil,Shooting
+0.7,0.1,0.2,60253,1,30.0,167.0,75.0,2016,0,26.89232313815483,0,"Shooting Men's Air Pistol, 10 metres",Kim Song-Guk,North Korea,Shooting
+0.0,0.06666666666666667,0.9333333333333332,57060,1,28.0,178.0,73.0,2016,2,23.04002019946976,0,"Shooting Men's Air Rifle, 10 metres",Sergey Igorevich Kamensky,Russia,Shooting
+0.0,0.1,0.9,64845,1,23.0,176.0,64.0,2016,2,20.66115702479339,0,"Shooting Men's Air Rifle, 10 metres",Serhiy Volodymyrovych Kulish,Ukraine,Shooting
+0.5,0.0,0.5,76132,1,21.0,171.0,73.0,2016,0,24.96494647925858,0,"Shooting Men's Air Rifle, 10 metres",Vladimir Anatolyevich Maslennikov,Russia,Shooting
+0.1,0.1,0.8,52180,1,37.0,170.0,97.0,2016,2,33.564013840830455,0,Shooting Men's Double Trap,Marco Innocenti,Italy,Shooting
+0.1,0.1,0.8,52180,1,37.0,170.0,97.0,2016,2,33.564013840830455,0,Shooting Men's Double Trap,Marco Innocenti,Italy,Shooting
+0.4,0.1,0.5,108025,1,31.0,172.0,84.0,2016,0,28.393726338561383,0,Shooting Men's Double Trap,"Stephen ""Steve"" Scott",Great Britain,Shooting
+0.1,0.2,0.7,97978,1,20.0,189.0,85.0,2016,2,23.79552644102909,0,"Shooting Men's Rapid-Fire Pistol, 25 metres",Jean Quiquampoix,France,Shooting
+0.7,0.2,0.1,69571,1,26.0,173.0,71.0,2016,0,23.722810651876102,0,"Shooting Men's Rapid-Fire Pistol, 25 metres",Li Yuehong,China,Shooting
+0.7,0.2,0.1,69571,1,26.0,173.0,71.0,2016,0,23.722810651876102,0,"Shooting Men's Rapid-Fire Pistol, 25 metres",Li Yuehong,China,Shooting
+0.2,0.3,0.5,116968,1,26.0,176.0,68.0,2016,2,21.952479338842977,0,Shooting Men's Skeet,Erik Marcus Svensson,Sweden,Shooting
+0.16666666666666666,0.8,0.03333333333333333,102734,1,21.0,176.0,65.0,2016,1,20.983987603305785,0,Shooting Men's Skeet,Gabriele Rossetti,Italy,Shooting
+0.7,0.2,0.1,2112,1,52.0,183.0,83.0,2016,0,24.78425751739377,0,Shooting Men's Skeet,Abdullah Al-Rashidi,Kuwait,Shooting
+0.8,0.1,0.1,42924,1,24.0,179.0,88.0,2016,0,27.46481071127618,0,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Kirill Akopovich Grigoryan,Russia,Shooting
+0.3,0.6,0.1,56311,1,28.0,179.0,80.0,2016,1,24.9680097375238,0,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Henri Junghnel,Germany,Shooting
+0.8,0.1,0.1,42924,1,24.0,179.0,88.0,2016,0,27.46481071127618,0,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Kirill Akopovich Grigoryan,Russia,Shooting
+0.8,0.2,0.0,99281,1,21.0,172.0,78.0,2016,0,26.365603028664147,0,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",Alexis Raynaud,France,Shooting
+0.8,0.2,0.0,99281,1,21.0,172.0,78.0,2016,0,26.365603028664147,0,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",Alexis Raynaud,France,Shooting
+0.8,0.2,0.0,99281,1,21.0,172.0,78.0,2016,0,26.365603028664147,0,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",Alexis Raynaud,France,Shooting
+0.3,0.6,0.1,40707,1,33.0,178.0,82.0,2016,1,25.88057063502083,0,Shooting Men's Trap,Josip Glasnovi,Croatia,Shooting
+0.3,0.6,0.1,40707,1,33.0,178.0,82.0,2016,1,25.88057063502083,0,Shooting Men's Trap,Josip Glasnovi,Croatia,Shooting
+1.0,0.0,0.0,70301,1,33.0,180.0,80.0,2016,0,24.69135802469136,0,Shooting Men's Trap,"Edward Theodore ""Ed"" Ling",Great Britain,Shooting
+0.1,0.2,0.7,57735,0,33.0,158.0,55.0,2016,2,22.031725684986377,0,"Shooting Women's Air Pistol, 10 metres",Monika Karsch,Germany,Shooting
+0.025,0.975,0.0,134516,0,25.0,162.0,70.0,2016,1,26.672763298277697,0,"Shooting Women's Air Pistol, 10 metres",Zhang Mengxue,China,Shooting
+0.6,0.2,0.2,28466,0,47.0,168.0,93.0,2016,0,32.95068027210885,0,"Shooting Women's Air Pistol, 10 metres",Heidi Diethelm Gerber,Switzerland,Shooting
+0.1,0.9,0.0,120121,0,19.0,155.0,55.0,2016,1,22.892819979188346,0,"Shooting Women's Air Rifle, 10 metres","Virginia ""Ginny"" Thrasher",United States,Shooting
+0.1,0.9,0.0,120121,0,19.0,155.0,55.0,2016,1,22.892819979188346,0,"Shooting Women's Air Rifle, 10 metres","Virginia ""Ginny"" Thrasher",United States,Shooting
+0.1,0.9,0.0,120121,0,19.0,155.0,55.0,2016,1,22.892819979188346,0,"Shooting Women's Air Rifle, 10 metres","Virginia ""Ginny"" Thrasher",United States,Shooting
+0.3,0.5,0.2,6624,0,33.0,175.0,85.0,2016,1,27.755102040816325,0,Shooting Women's Skeet,Diana Bacosi,Italy,Shooting
+0.3,0.5,0.2,6624,0,33.0,175.0,85.0,2016,1,27.755102040816325,0,Shooting Women's Skeet,Diana Bacosi,Italy,Shooting
+0.3,0.5,0.2,6624,0,33.0,175.0,85.0,2016,1,27.755102040816325,0,Shooting Women's Skeet,Diana Bacosi,Italy,Shooting
+0.0,0.1,0.9,134428,0,27.0,164.0,55.0,2016,2,20.449137418203453,0,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",Zhang Binbin,China,Shooting
+0.2,0.7,0.1,67693,0,33.0,162.0,72.0,2016,1,27.43484224965706,0,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",Barbara Lechner-Engleder,Germany,Shooting
+0.2,0.7,0.1,67693,0,33.0,162.0,72.0,2016,1,27.43484224965706,0,"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",Barbara Lechner-Engleder,Germany,Shooting
+0.1,0.1,0.8,102440,0,28.0,181.0,95.0,2016,2,28.997893837184456,0,Shooting Women's Trap,Natalie Rooney,New Zealand,Shooting
+0.2,0.7,0.1,111661,0,26.0,172.0,80.0,2016,1,27.041644131963228,0,Shooting Women's Trap,Catherine Skinner,Australia,Shooting
+0.2,0.7,0.1,111661,0,26.0,172.0,80.0,2016,1,27.041644131963228,0,Shooting Women's Trap,Catherine Skinner,Australia,Shooting
+0.2,0.0,0.8,53283,1,25.0,185.0,77.0,2016,2,22.4981738495252,0,"Swimming Men's 1,500 metres Freestyle",Connor Jaeger,United States,Swimming
+0.0,1.0,0.0,90906,1,21.0,191.0,72.0,2016,1,19.736301088237717,0,"Swimming Men's 1,500 metres Freestyle",Gregorio Paltrinieri,Italy,Swimming
+0.9,0.0,0.1,27897,1,21.0,184.0,79.0,2016,0,23.334120982986768,0,"Swimming Men's 1,500 metres Freestyle",Gabriele Detti,Italy,Swimming
+0.9,0.0,0.1,88788,1,20.0,183.0,64.0,2016,0,19.1107527844964,0,Swimming Men's 10 kilometres Open Water,Marc-Antoine Olivier,France,Swimming
+0.1,0.8,0.1,129236,1,24.0,189.0,86.0,2016,1,24.075473810923548,0,Swimming Men's 10 kilometres Open Water,Ferry Weertman,Netherlands,Swimming
+0.9,0.0,0.1,88788,1,20.0,183.0,64.0,2016,0,19.1107527844964,0,Swimming Men's 10 kilometres Open Water,Marc-Antoine Olivier,France,Swimming
+0.2,0.26,0.54,128145,1,26.0,184.0,84.0,2016,2,24.8109640831758,0,Swimming Men's 100 metres Backstroke,"Christopher James ""Chris"" Walker-Hebborn",Great Britain,Swimming
+0.0,1.0,0.0,83545,1,21.0,191.0,91.0,2016,1,24.94449165318933,0,Swimming Men's 100 metres Backstroke,Ryan Murphy,United States,Swimming
+1.0,0.0,0.0,103877,1,19.0,184.0,69.0,2016,0,20.380434782608692,0,Swimming Men's 100 metres Backstroke,Yevgeny Mikhaylovich Rylov,Russia,Swimming
+0.1,0.7,0.2,7133,1,21.0,195.0,85.0,2016,1,22.35371466140697,0,Swimming Men's 100 metres Breaststroke,Dmitry Igorevich Balandin,Kazakhstan,Swimming
+0.2,0.8,0.0,92529,1,21.0,191.0,86.0,2016,1,23.573915188728375,0,Swimming Men's 100 metres Breaststroke,Adam George Peaty,Great Britain,Swimming
+1.0,0.0,0.0,79881,1,24.0,180.0,80.0,2016,0,24.69135802469136,0,Swimming Men's 100 metres Breaststroke,Cody Miller,United States,Swimming
+0.0,0.5,0.5,107436,1,21.0,184.0,74.0,2016,1,21.85727788279773,0,Swimming Men's 100 metres Butterfly,Joseph Isaac Schooling,Singapore,Swimming
+0.05,0.9,0.05,109727,1,25.0,193.0,86.0,2016,1,23.087868130688072,0,Swimming Men's 100 metres Butterfly,"Thomas Allen ""Tom"" Shields",United States,Swimming
+0.6,0.3,0.1,82020,1,22.0,184.0,82.0,2016,0,24.22022684310019,0,Swimming Men's 100 metres Butterfly,David Morgan,Australia,Swimming
+0.0,0.1,0.9,79541,1,23.0,187.0,75.0,2016,2,21.447567845806283,0,Swimming Men's 100 metres Freestyle,Clment Mignon,France,Swimming
+0.2,0.8,0.0,29989,1,19.0,191.0,86.0,2016,1,23.573915188728375,0,Swimming Men's 100 metres Freestyle,Caeleb Remel Dressel,United States,Swimming
+0.9,0.1,0.0,101298,1,25.0,194.0,90.0,2016,0,23.91327452439154,0,Swimming Men's 100 metres Freestyle,James Roberts,Australia,Swimming
+0.0,0.0,1.0,132065,1,20.0,187.0,78.0,2016,2,22.305470559638533,0,Swimming Men's 200 metres Backstroke,Xu Jiayu,China,Swimming
+1.0,0.0,0.0,66726,1,23.0,187.0,72.0,2016,2,20.58966513197403,0,Swimming Men's 200 metres Backstroke,"Mitchell James ""Mitch"" Larkin",Australia,Swimming
+1.0,0.0,0.0,66726,1,23.0,187.0,72.0,2016,2,20.58966513197403,0,Swimming Men's 200 metres Backstroke,"Mitchell James ""Mitch"" Larkin",Australia,Swimming
+0.5,0.2,0.3,96858,1,23.0,180.0,76.0,2016,2,23.456790123456788,0,Swimming Men's 200 metres Breaststroke,Josh Prenot,United States,Swimming
+0.6,0.2,0.2,21439,1,19.0,188.0,71.0,2016,0,20.088275237664103,0,Swimming Men's 200 metres Breaststroke,Anton Mikhaylovich Chupkov,Russia,Swimming
+0.6,0.2,0.2,21439,1,19.0,188.0,71.0,2016,0,20.088275237664103,0,Swimming Men's 200 metres Breaststroke,Anton Mikhaylovich Chupkov,Russia,Swimming
+0.1,0.0,0.9,104486,1,21.0,181.0,77.0,2016,2,23.503556057507403,0,Swimming Men's 200 metres Butterfly,Masato Sakai,Japan,Swimming
+0.8,0.2,0.0,58684,1,19.0,186.0,74.0,2016,0,21.389756041160823,0,Swimming Men's 200 metres Butterfly,Tams Kenderesi,Hungary,Swimming
+0.8,0.2,0.0,58684,1,19.0,186.0,74.0,2016,0,21.389756041160823,0,Swimming Men's 200 metres Butterfly,Tams Kenderesi,Hungary,Swimming
+0.0,0.1,0.9,44231,1,20.0,187.0,83.0,2016,2,23.735308416025617,0,Swimming Men's 200 metres Freestyle,James George Guy,Great Britain,Swimming
+0.4,0.5,0.1,44479,1,19.0,196.0,84.0,2016,1,21.86588921282799,0,Swimming Men's 200 metres Freestyle,Francis Townley Haas,United States,Swimming
+0.4,0.5,0.1,44479,1,19.0,196.0,84.0,2016,1,21.86588921282799,0,Swimming Men's 200 metres Freestyle,Francis Townley Haas,United States,Swimming
+1.0,0.0,0.0,128565,1,22.0,191.0,74.0,2016,0,20.28453167402209,0,Swimming Men's 200 metres Individual Medley,Wang Shun,China,Swimming
+1.0,0.0,0.0,128565,1,22.0,191.0,74.0,2016,0,20.28453167402209,0,Swimming Men's 200 metres Individual Medley,Wang Shun,China,Swimming
+1.0,0.0,0.0,128565,1,22.0,191.0,74.0,2016,0,20.28453167402209,0,Swimming Men's 200 metres Individual Medley,Wang Shun,China,Swimming
+0.0,0.4,0.6,79112,1,24.0,190.0,90.0,2016,2,24.930747922437675,0,Swimming Men's 4 x 100 metres Freestyle Relay,Mehdy Metella,France,Swimming
+0.0,1.0,0.0,94713,1,20.0,188.0,86.0,2016,1,24.332277048438208,0,Swimming Men's 4 x 100 metres Freestyle Relay,Blake Pieroni,United States,Swimming
+1.0,0.0,0.0,77505,1,22.0,185.0,70.0,2016,0,20.45288531775018,0,Swimming Men's 4 x 100 metres Freestyle Relay,Cameron McEvoy,Australia,Swimming
+0.0,0.0,1.0,128156,1,23.0,188.0,80.0,2016,2,22.634676324128566,0,Swimming Men's 4 x 200 metres Freestyle Relay,"Daniel ""Dan"" Wallace",Great Britain,Swimming
+0.05,0.85,0.1,22662,1,21.0,193.0,80.0,2016,1,21.47708663319821,0,Swimming Men's 4 x 200 metres Freestyle Relay,"John ""Jack"" Conger",United States,Swimming
+0.7,0.0,0.3,61715,1,22.0,183.0,77.0,2016,0,22.99262444384723,0,Swimming Men's 4 x 200 metres Freestyle Relay,Yuki Kobori,Japan,Swimming
+0.2,0.0,0.8,80002,1,22.0,185.0,76.0,2016,2,22.205989773557334,0,Swimming Men's 400 metres Freestyle,Stephen Milne,Great Britain,Swimming
+0.1,0.2,0.7,40104,1,36.0,185.0,78.0,2016,2,22.79035792549306,0,Swimming Men's 400 metres Freestyle,"Spyridon ""Spyros"" Gianniotis",Greece,Swimming
+0.95,0.05,0.0,31634,1,23.0,172.0,59.0,2016,0,19.94321254732288,0,Swimming Men's 400 metres Freestyle,Naito Ehara,Japan,Swimming
+0.15,0.25,0.6,56887,1,22.0,193.0,86.0,2016,2,23.087868130688072,0,Swimming Men's 400 metres Individual Medley,Chase Tyler Kalisz,United States,Swimming
+0.15,0.25,0.6,56887,1,22.0,193.0,86.0,2016,2,23.087868130688072,0,Swimming Men's 400 metres Individual Medley,Chase Tyler Kalisz,United States,Swimming
+0.15,0.25,0.6,56887,1,22.0,193.0,86.0,2016,2,23.087868130688072,0,Swimming Men's 400 metres Individual Medley,Chase Tyler Kalisz,United States,Swimming
+0.6,0.3,0.1,465,1,30.0,197.0,92.0,2016,0,23.70584142853462,0,Swimming Men's 50 metres Freestyle,"Matthew ""Matt"" Abood",Australia,Swimming
+0.6,0.3,0.1,465,1,30.0,197.0,92.0,2016,0,23.70584142853462,0,Swimming Men's 50 metres Freestyle,"Matthew ""Matt"" Abood",Australia,Swimming
+0.6,0.3,0.1,465,1,30.0,197.0,92.0,2016,0,23.70584142853462,0,Swimming Men's 50 metres Freestyle,"Matthew ""Matt"" Abood",Australia,Swimming
+0.6614285714285714,0.0,0.3385714285714286,15788,0,25.0,170.0,59.0,2016,2,20.41522491349481,0,Swimming Women's 10 kilometres Open Water,Rachele Bruni,Italy,Swimming
+0.5,0.2,0.3,88461,0,33.0,165.0,52.0,2016,0,19.10009182736456,1,Swimming Women's 10 kilometres Open Water,Poliana Okimoto-Cintra,Brazil,Swimming
+0.6614285714285714,0.0,0.3385714285714286,15788,0,25.0,170.0,59.0,2016,2,20.41522491349481,0,Swimming Women's 10 kilometres Open Water,Rachele Bruni,Italy,Swimming
+0.5666666666666667,0.0,0.4333333333333333,111543,0,22.0,182.0,76.0,2016,0,22.94408887815481,0,Swimming Women's 100 metres Backstroke,Sarah Frederica Sjstrm,Sweden,Swimming
+0.0,1.0,0.0,124886,0,22.0,173.0,65.0,2016,1,21.71806608974573,0,Swimming Women's 100 metres Backstroke,Sharon van Rouwendaal,Netherlands,Swimming
+0.6,0.13333333333333333,0.26666666666666666,76218,0,20.0,173.0,61.0,2016,0,20.381569714992143,0,Swimming Women's 100 metres Backstroke,Kylie Jacqueline Masse,Canada,Swimming
+0.06,0.13999999999999999,0.8,77721,0,21.0,178.0,65.0,2016,2,20.515086478979924,0,Swimming Women's 100 metres Breaststroke,Taylor McKeown,Australia,Swimming
+0.1,0.8,0.1,60494,0,19.0,175.0,70.0,2016,1,22.857142857142858,0,Swimming Women's 100 metres Breaststroke,Lilly King,United States,Swimming
+0.6,0.2,0.2,92669,0,27.0,174.0,61.0,2016,0,20.147971991015982,0,Swimming Women's 100 metres Breaststroke,Rikke Mller Pedersen,Denmark,Swimming
+0.1,0.0,0.9,43241,0,21.0,179.0,66.0,2016,2,20.598608033457133,0,Swimming Women's 100 metres Butterfly,Madeline Groves,Australia,Swimming
+0.13333333333333333,0.5,0.36666666666666664,131614,0,22.0,180.0,75.0,2016,1,23.148148148148145,0,Swimming Women's 100 metres Butterfly,Kelsi Worrell,United States,Swimming
+0.35,0.15,0.5,106188,0,23.0,167.0,54.0,2016,0,19.362472659471475,0,Swimming Women's 100 metres Butterfly,Katerine Savard,Canada,Swimming
+0.3866666666666667,0.335,0.2783333333333333,88651,0,16.0,185.0,68.0,2016,1,19.86851716581446,0,Swimming Women's 100 metres Freestyle,"Penelope ""Penny"" Oleksiak",Canada,Swimming
+0.3866666666666667,0.335,0.2783333333333333,88651,0,16.0,185.0,68.0,2016,1,19.86851716581446,0,Swimming Women's 100 metres Freestyle,"Penelope ""Penny"" Oleksiak",Canada,Swimming
+0.3866666666666667,0.335,0.2783333333333333,88651,0,16.0,185.0,68.0,2016,1,19.86851716581446,0,Swimming Women's 100 metres Freestyle,"Penelope ""Penny"" Oleksiak",Canada,Swimming
+0.55,0.22999999999999998,0.22000000000000003,17415,0,25.0,173.0,61.0,2016,0,20.381569714992143,0,Swimming Women's 200 metres Backstroke,Hilary Caldwell,Canada,Swimming
+0.55,0.22999999999999998,0.22000000000000003,17415,0,25.0,173.0,61.0,2016,0,20.381569714992143,0,Swimming Women's 200 metres Backstroke,Hilary Caldwell,Canada,Swimming
+0.55,0.22999999999999998,0.22000000000000003,17415,0,25.0,173.0,61.0,2016,0,20.381569714992143,0,Swimming Women's 200 metres Backstroke,Hilary Caldwell,Canada,Swimming
+0.4066666666666666,0.5933333333333333,0.0,57212,0,27.0,175.0,64.0,2016,1,20.897959183673468,0,Swimming Women's 200 metres Breaststroke,Rie Kaneto,Japan,Swimming
+0.4066666666666666,0.5933333333333333,0.0,57212,0,27.0,175.0,64.0,2016,1,20.897959183673468,0,Swimming Women's 200 metres Breaststroke,Rie Kaneto,Japan,Swimming
+0.4066666666666666,0.5933333333333333,0.0,57212,0,27.0,175.0,64.0,2016,1,20.897959183673468,0,Swimming Women's 200 metres Breaststroke,Rie Kaneto,Japan,Swimming
+0.0,0.20833333333333331,0.7916666666666667,77716,0,22.0,180.0,60.0,2016,0,18.51851851851852,0,Swimming Women's 200 metres Freestyle,Emma McKeon,Australia,Swimming
+0.0,0.735,0.265,50170,0,27.0,175.0,65.0,2016,1,21.22448979591837,0,Swimming Women's 200 metres Freestyle,Katinka Hossz,Hungary,Swimming
+0.0,0.735,0.265,50170,0,27.0,175.0,65.0,2016,1,21.22448979591837,0,Swimming Women's 200 metres Freestyle,Katinka Hossz,Hungary,Swimming
+0.0,0.7,0.3,130864,0,22.0,179.0,61.0,2016,1,19.03810742486189,0,Swimming Women's 4 x 100 metres Freestyle Relay,"Madison ""Madi"" Wilson",Australia,Swimming
+0.0,0.9,0.1,86020,0,19.0,184.0,67.0,2016,0,19.78969754253308,0,Swimming Women's 4 x 100 metres Freestyle Relay,Mie stergaard Nielsen,Denmark,Swimming
+0.8,0.1,0.1,103225,0,16.0,180.0,60.0,2016,0,18.51851851851852,0,Swimming Women's 4 x 100 metres Freestyle Relay,Taylor Madison Ruck,Canada,Swimming
+0.3,0.1,0.6,84971,0,21.0,173.0,66.0,2016,2,22.052190183434128,0,Swimming Women's 4 x 200 metres Freestyle Relay,Leah Neale,Australia,Swimming
+0.1,0.8,0.1,103490,0,20.0,193.0,85.0,2016,1,22.819404547773097,0,Swimming Women's 4 x 200 metres Freestyle Relay,Cierra Runge,United States,Swimming
+0.7,0.05714285714285714,0.24285714285714283,41957,0,19.0,173.0,74.0,2016,0,24.72518293294129,0,Swimming Women's 4 x 200 metres Freestyle Relay,Kennedy Goss,Canada,Swimming
+0.0,0.0,1.0,18278,0,25.0,175.0,57.0,2016,2,18.612244897959183,0,Swimming Women's 400 metres Freestyle,"Jazmin Roxy ""Jazz"" Carlin",Great Britain,Swimming
+0.47666666666666674,0.42333333333333334,0.1,112334,0,21.0,178.0,67.0,2016,0,21.146319909102385,0,Swimming Women's 400 metres Freestyle,Leah Smith,United States,Swimming
+0.7,0.03333333333333333,0.26666666666666666,73094,0,22.0,172.0,70.0,2016,0,23.661438615467823,0,Swimming Women's 400 metres Freestyle,Brittany MacLean,Canada,Swimming
+0.0,0.43500000000000005,0.5650000000000001,74639,0,20.0,178.0,73.0,2016,2,23.04002019946976,0,Swimming Women's 50 metres Freestyle,Simone Ashley Manuel,United States,Swimming
+0.1,0.8,0.1,17684,0,22.0,179.0,58.0,2016,1,18.101807059704758,0,Swimming Women's 50 metres Freestyle,Bronte Campbell,Australia,Swimming
+0.9,0.05,0.05,90004,0,28.0,178.0,70.0,2016,0,22.093170054286077,0,Swimming Women's 50 metres Freestyle,Jeanette Ottesen Gray,Denmark,Swimming
+0.1,0.1,0.8,5577,0,23.0,173.0,64.0,2016,2,21.38394199605733,0,Swimming Women's 800 metres Freestyle,Jessica Ashwood,Australia,Swimming
+0.1,0.1,0.8,5577,0,23.0,173.0,64.0,2016,2,21.38394199605733,0,Swimming Women's 800 metres Freestyle,Jessica Ashwood,Australia,Swimming
+0.1,0.1,0.8,5577,0,23.0,173.0,64.0,2016,2,21.38394199605733,0,Swimming Women's 800 metres Freestyle,Jessica Ashwood,Australia,Swimming
+0.9,0.1,0.0,52233,0,25.0,169.0,55.0,2016,0,19.257028815517668,0,Synchronized Swimming Women's Duet,Yukiko Inui,Japan,Synchronized Swimming
+0.9,0.1,0.0,52233,0,25.0,169.0,55.0,2016,0,19.257028815517668,0,Synchronized Swimming Women's Duet,Yukiko Inui,Japan,Synchronized Swimming
+0.9,0.1,0.0,52233,0,25.0,169.0,55.0,2016,0,19.257028815517668,0,Synchronized Swimming Women's Duet,Yukiko Inui,Japan,Synchronized Swimming
+0.1,0.0,0.9,43430,0,23.0,174.0,60.0,2016,2,19.817677368212443,0,Synchronized Swimming Women's Team,Gu Xiao,China,Synchronized Swimming
+0.1,0.9,0.0,20707,0,21.0,162.0,46.0,2016,1,17.527815881725342,0,Synchronized Swimming Women's Team,Vlada Aleksandrovna Chigiryova,Russia,Synchronized Swimming
+1.0,0.0,0.0,44914,0,25.0,176.0,65.0,2016,0,20.983987603305785,0,Synchronized Swimming Women's Team,Aika Hakoyama,Japan,Synchronized Swimming
+0.7,0.1,0.2,80655,1,27.0,172.0,63.0,2016,0,21.29529475392104,0,Table Tennis Men's Singles,Jun Mizutani,Japan,Table Tennis
+0.7,0.1,0.2,80655,1,27.0,172.0,63.0,2016,0,21.29529475392104,0,Table Tennis Men's Singles,Jun Mizutani,Japan,Table Tennis
+0.7,0.1,0.2,80655,1,27.0,172.0,63.0,2016,0,21.29529475392104,0,Table Tennis Men's Singles,Jun Mizutani,Japan,Table Tennis
+0.04,0.1,0.86,133151,1,23.0,177.0,61.0,2016,2,19.4707778735357,0,Table Tennis Men's Team,Maharu Yoshimura,Japan,Table Tennis
+0.0,0.9,0.1,132090,1,26.0,180.0,67.0,2016,1,20.679012345679013,0,Table Tennis Men's Team,Xu Xin,China,Table Tennis
+0.1,0.2,0.7,86577,1,21.0,162.0,51.0,2016,2,19.43301326017375,0,Table Tennis Men's Team,Koki Niwa,Japan,Table Tennis
+0.1,0.0,0.9,112937,0,22.0,168.0,67.0,2016,2,23.73866213151928,0,Table Tennis Women's Singles,Petrissa Solja,Germany,Table Tennis
+0.0,0.41666666666666663,0.5833333333333333,45496,0,33.0,170.0,60.0,2016,2,20.761245674740486,0,Table Tennis Women's Singles,Ying Han,Germany,Table Tennis
+0.7,0.1,0.2,60258,0,21.0,161.0,55.0,2016,0,21.218317194552675,0,Table Tennis Women's Singles,Kim Song-I,North Korea,Table Tennis
+0.2,0.0,0.8,52685,0,15.0,150.0,45.0,2016,0,20.0,0,Table Tennis Women's Team,Mima Ito,Japan,Table Tennis
+0.2,0.8,0.0,70636,0,25.0,160.0,54.0,2016,1,21.09375,0,Table Tennis Women's Team,Liu Shiwen,China,Table Tennis
+0.2,0.0,0.8,52685,0,15.0,150.0,45.0,2016,0,20.0,0,Table Tennis Women's Team,Mima Ito,Japan,Table Tennis
+0.1,0.9,0.0,608,1,20.0,178.0,68.0,2016,1,21.461936624163616,0,Taekwondo Men's Featherweight,Ahmad Abughaush,Jordan,Taekwondo
+0.1,0.9,0.0,608,1,20.0,178.0,68.0,2016,1,21.461936624163616,0,Taekwondo Men's Featherweight,Ahmad Abughaush,Jordan,Taekwondo
+0.1,0.9,0.0,608,1,20.0,178.0,68.0,2016,1,21.461936624163616,0,Taekwondo Men's Featherweight,Ahmad Abughaush,Jordan,Taekwondo
+0.1,0.0,0.9,45656,1,18.0,176.0,58.0,2016,2,18.72417355371901,0,Taekwondo Men's Flyweight,Tawin Hanprab,Thailand,Taekwondo
+0.6,0.2,0.2,134663,1,20.0,188.0,63.0,2016,1,17.824807605251245,0,Taekwondo Men's Flyweight,Zhao Shuai,China,Taekwondo
+0.6599999999999999,0.13999999999999999,0.2,60284,1,21.0,182.0,59.0,2016,0,17.81185847119913,0,Taekwondo Men's Flyweight,Kim Tae-Hun,South Korea,Taekwondo
+0.0,0.1,0.9,2610,1,21.0,207.0,90.0,2016,2,21.00399075824407,0,Taekwondo Men's Heavyweight,Abdoul Razak Issoufou Alfaga,Niger,Taekwondo
+0.1,0.2833333333333333,0.6166666666666667,52448,1,26.0,200.0,93.0,2016,1,23.25,0,Taekwondo Men's Heavyweight,Radik sayev,Azerbaijan,Taekwondo
+0.6,0.2,0.2,111358,1,23.0,190.0,90.0,2016,0,24.930747922437675,1,Taekwondo Men's Heavyweight,Maicon de Andrade Siqueira,Brazil,Taekwondo
+0.0,0.8,0.2,21695,1,22.0,186.0,80.0,2016,1,23.12406058503873,0,Taekwondo Men's Welterweight,Cheick Sallah Ciss Junior,Cote d'Ivoire,Taekwondo
+0.0,0.8,0.2,21695,1,22.0,186.0,80.0,2016,1,23.12406058503873,0,Taekwondo Men's Welterweight,Cheick Sallah Ciss Junior,Cote d'Ivoire,Taekwondo
+0.9,0.0,0.1,9444,1,25.0,197.0,80.0,2016,0,20.61377515524749,0,Taekwondo Men's Welterweight,Milad Beigi Hareqani,Azerbaijan,Taekwondo
+0.4,0.2,0.4,17525,0,25.0,176.0,57.0,2016,2,18.401342975206614,0,Taekwondo Women's Featherweight,Eva Calvo Gmez,Spain,Taekwondo
+0.2678571428571429,0.4321428571428571,0.3,73952,0,23.0,174.0,57.0,2016,0,18.826793499801823,0,Taekwondo Women's Featherweight,Hedaya Ahmad Malak Wahba,Egypt,Taekwondo
+0.4,0.2,0.4,17525,0,25.0,176.0,57.0,2016,2,18.401342975206614,0,Taekwondo Women's Featherweight,Eva Calvo Gmez,Spain,Taekwondo
+0.0,0.1,0.9,12740,0,18.0,172.0,52.0,2016,2,17.577068685776098,0,Taekwondo Women's Flyweight,Tijana Bogdanovi,Serbia,Taekwondo
+0.1,0.9,0.0,60247,0,22.0,164.0,50.0,2016,1,18.590124925639504,0,Taekwondo Women's Flyweight,Kim So-Hui,South Korea,Taekwondo
+0.8,0.1,0.1,131451,0,18.0,173.0,49.0,2016,0,16.372080590731397,0,Taekwondo Women's Flyweight,Panipak Wongpattanakit,Thailand,Taekwondo
+0.6,0.0,0.4,38162,0,20.0,178.0,80.0,2016,0,25.24933720489837,0,Taekwondo Women's Heavyweight,"Jacqueline ""Jackie"" Galloway",United States,Taekwondo
+0.0,1.0,0.0,134740,0,22.0,188.0,75.0,2016,1,21.22000905387053,0,Taekwondo Women's Heavyweight,Zheng Shuyin,China,Taekwondo
+0.9,0.1,0.0,128077,0,24.0,182.0,74.0,2016,0,22.34029706557179,0,Taekwondo Women's Heavyweight,Bianca Michaela Walkden,Great Britain,Taekwondo
+0.0,0.8,0.2,88237,0,28.0,182.0,69.0,2016,1,20.830817534114235,0,Taekwondo Women's Welterweight,Oh Hye-Ri,South Korea,Taekwondo
+0.0,0.8,0.2,88237,0,28.0,182.0,69.0,2016,1,20.830817534114235,0,Taekwondo Women's Welterweight,Oh Hye-Ri,South Korea,Taekwondo
+0.7,0.2,0.1,85778,0,23.0,176.0,66.0,2016,2,21.306818181818183,0,Taekwondo Women's Welterweight,Haby Niar,France,Taekwondo
+0.1,0.1,0.8,119003,1,31.0,192.0,90.0,2016,2,24.4140625,0,Tennis Men's Doubles,Horia Tecu,Romania,Tennis
+0.1,0.8,0.1,71423,1,34.0,175.0,71.0,2016,1,23.18367346938776,0,Tennis Men's Doubles,Marc Lpez i Tarrs,Spain-2,Tennis
+0.2,0.2,0.6,78875,1,31.0,180.0,76.0,2016,2,23.456790123456788,0,Tennis Men's Doubles,Florin Mergea,Romania,Tennis
+0.6666666666666667,0.03333333333333333,0.3,55463,1,26.0,188.0,86.0,2016,0,24.332277048438208,0,Tennis Men's Singles,Steve Johnson,United States,Tennis
+0.1,0.6,0.3,114947,1,37.0,186.0,79.0,2016,0,22.835009827725745,0,Tennis Men's Singles,Radek tpnek,Czech Republic,Tennis
+0.7,0.3,0.0,112686,1,23.0,191.0,84.0,2016,1,23.025684602944,0,Tennis Men's Singles,Jack Sock,United States,Tennis
+0.1,0.0,0.9,98552,1,32.0,193.0,84.0,2016,2,22.55094096485812,0,Tennis Mixed Doubles,Rajeev Ram,United States-1,Tennis
+0.0,1.0,0.0,76644,0,31.0,168.0,66.0,2016,1,23.384353741496604,0,Tennis Mixed Doubles,Bethanie Lynn Mattek-Sands,United States-2,Tennis
+0.1,0.0,0.9,98552,1,32.0,193.0,84.0,2016,2,22.55094096485812,0,Tennis Mixed Doubles,Rajeev Ram,United States-1,Tennis
+0.6,0.1,0.3,65461,0,26.0,183.0,70.0,2016,0,20.902385858042937,0,Tennis Women's Doubles,Petra Kvitov,Czech Republic-1,Tennis
+0.16666666666666666,0.8333333333333333,0.0,73822,0,28.0,176.0,65.0,2016,1,20.983987603305785,0,Tennis Women's Doubles,Yekaterina Valeryevna Makarova,Russia-2,Tennis
+0.6,0.1,0.3,65461,0,26.0,183.0,70.0,2016,0,20.902385858042937,0,Tennis Women's Doubles,Petra Kvitov,Czech Republic-1,Tennis
+0.0,0.1,0.9,48700,0,35.0,170.0,59.0,2016,2,20.41522491349481,0,Tennis Women's Singles,Martina Hingis (-Hutin),Switzerland,Tennis
+0.1,0.7,0.2,97449,0,22.0,170.0,64.0,2016,1,22.145328719723185,0,Tennis Women's Singles,Monica Puig Marchn,Puerto Rico,Tennis
+0.6,0.3,0.1,6632,0,27.0,170.0,62.0,2016,2,21.45328719723184,0,Tennis Women's Singles,Timea Bacsinszky,Switzerland,Tennis
+0.175,0.6,0.225,41389,1,20.0,173.0,66.0,2016,1,22.052190183434128,0,Trampolining Men's Individual,Vladislav Olegovich Goncharov,Belarus,Trampolining
+0.175,0.6,0.225,41389,1,20.0,173.0,66.0,2016,1,22.052190183434128,0,Trampolining Men's Individual,Vladislav Olegovich Goncharov,Belarus,Trampolining
+0.8,0.2,0.0,38410,1,24.0,170.0,64.0,2016,0,22.145328719723185,0,Trampolining Men's Individual,Gao Lei,China,Trampolining
+0.25,0.0,0.75,90546,0,25.0,172.0,60.0,2016,2,20.281233098972415,0,Trampolining Women's Individual,Bryony Kate Frances Page,Great Britain,Trampolining
+0.45,0.3,0.25,69329,0,27.0,155.0,47.0,2016,0,19.562955254942764,0,Trampolining Women's Individual,Li Dan,China,Trampolining
+0.45,0.3,0.25,69329,0,27.0,155.0,47.0,2016,0,19.562955254942764,0,Trampolining Women's Individual,Li Dan,China,Trampolining
+0.9800000000000001,0.02,0.0,107353,1,24.0,170.0,59.0,2016,0,20.41522491349481,0,Triathlon Men's Olympic Distance,Henri Schoeman,South Africa,Triathlon
+0.9800000000000001,0.02,0.0,107353,1,24.0,170.0,59.0,2016,0,20.41522491349481,0,Triathlon Men's Olympic Distance,Henri Schoeman,South Africa,Triathlon
+0.9800000000000001,0.02,0.0,107353,1,24.0,170.0,59.0,2016,0,20.41522491349481,0,Triathlon Men's Olympic Distance,Henri Schoeman,South Africa,Triathlon
+0.0,0.7666666666666666,0.2333333333333333,49379,0,30.0,168.0,56.0,2016,0,19.841269841269845,0,Triathlon Women's Olympic Distance,"Victoria Frances ""Vicky"" Holland",Great Britain,Triathlon
+0.1,0.8,0.1,55916,0,30.0,178.0,59.0,2016,1,18.621386188612547,0,Triathlon Women's Olympic Distance,Gwen Rosemary Jorgensen (-Lemieux),United States,Triathlon
+0.1,0.8,0.1,55916,0,30.0,178.0,59.0,2016,1,18.621386188612547,0,Triathlon Women's Olympic Distance,Gwen Rosemary Jorgensen (-Lemieux),United States,Triathlon
+0.0,0.1,0.9,16900,1,32.0,206.0,100.0,2016,2,23.56489772834386,0,Volleyball Men's Volleyball,Simone Buti,Italy,Volleyball
+0.0,1.0,0.0,31381,1,32.0,205.0,107.0,2016,1,25.46103509815586,1,Volleyball Men's Volleyball,der Francis Carbonera,Brazil,Volleyball
+0.9,0.0,0.1,49581,1,29.0,208.0,90.0,2016,0,20.802514792899405,0,Volleyball Men's Volleyball,"Maxwell Philip ""Max"" Holt",United States,Volleyball
+0.0,0.0,1.0,86268,0,34.0,194.0,79.0,2016,2,20.990540971410358,0,Volleyball Women's Volleyball,Jelena Nikoli,Serbia,Volleyball
+0.0,0.9,0.1,69978,0,24.0,171.0,70.0,2016,1,23.938989774631512,0,Volleyball Women's Volleyball,Lin Li,China,Volleyball
+1.0,0.0,0.0,7590,0,27.0,178.0,70.0,2016,0,22.093170054286077,0,Volleyball Women's Volleyball,Kayla Banwarth,United States,Volleyball
+0.1,0.0,0.9,71178,1,29.0,195.0,106.0,2016,2,27.87639710716634,0,Water Polo Men's Water Polo,Luka Lonar,Croatia,Water Polo
+0.2,0.8,0.0,53424,1,19.0,197.0,89.0,2016,1,22.93282486021284,0,Water Polo Men's Water Polo,Nikola Jaki,Serbia,Water Polo
+0.9,0.1,0.0,28073,1,22.0,190.0,88.0,2016,0,24.37673130193906,0,Water Polo Men's Water Polo,Francesco Di Fulvio,Italy,Water Polo
+0.0,0.0,1.0,36877,0,30.0,178.0,75.0,2016,2,23.671253629592226,0,Water Polo Women's Water Polo,Teresa Frassinetti,Italy,Water Polo
+0.0,1.0,0.0,34233,0,22.0,173.0,65.0,2016,1,21.71806608974573,0,Water Polo Women's Water Polo,Rachel Fattal,United States,Water Polo
+0.8,0.1,0.1,52875,0,29.0,176.0,68.0,2016,0,21.952479338842977,0,Water Polo Women's Water Polo,Yevgeniya Andreyevna Ivanova,Russia,Water Polo
+0.3,0.6,0.1,64302,1,20.0,159.0,56.0,2016,0,22.15102250702108,0,Weightlifting Men's Bantamweight,Sinphet Kruaithong,Thailand,Weightlifting
+0.3,0.6,0.1,64302,1,20.0,159.0,56.0,2016,0,22.15102250702108,0,Weightlifting Men's Bantamweight,Sinphet Kruaithong,Thailand,Weightlifting
+0.3,0.6,0.1,64302,1,20.0,159.0,56.0,2016,0,22.15102250702108,0,Weightlifting Men's Bantamweight,Sinphet Kruaithong,Thailand,Weightlifting
+0.5900000000000001,0.2,0.21000000000000002,59204,1,25.0,160.0,62.0,2016,0,24.21875,0,Weightlifting Men's Featherweight,Farkhad Ibragimovich Kharki,Kazakhstan,Weightlifting
+0.5900000000000001,0.2,0.21000000000000002,59204,1,25.0,160.0,62.0,2016,0,24.21875,0,Weightlifting Men's Featherweight,Farkhad Ibragimovich Kharki,Kazakhstan,Weightlifting
+0.5900000000000001,0.2,0.21000000000000002,59204,1,25.0,160.0,62.0,2016,0,24.21875,0,Weightlifting Men's Featherweight,Farkhad Ibragimovich Kharki,Kazakhstan,Weightlifting
+0.2,0.3,0.5,75926,1,19.0,181.0,105.0,2016,2,32.05030371478282,0,Weightlifting Men's Heavyweight,Simon Martirosyan,Armenia,Weightlifting
+0.0,1.0,0.0,87401,1,24.0,183.0,109.0,2016,1,32.54800083609543,0,Weightlifting Men's Heavyweight,Ruslan Nurudinov,Uzbekistan,Weightlifting
+0.3,0.5,0.2,134135,1,23.0,180.0,105.0,2016,0,32.407407407407405,0,Weightlifting Men's Heavyweight,Aleksandr Sergeyevich Zaychikov,Kazakhstan,Weightlifting
+0.1,0.0,0.9,120216,1,22.0,172.0,85.0,2016,2,28.73174689021093,0,Weightlifting Men's Light-Heavyweight,Tian Tao,China,Weightlifting
+0.4,0.1,0.5,81739,1,27.0,170.0,97.0,2016,1,33.564013840830455,0,Weightlifting Men's Light-Heavyweight,Sohrab Moradi,Iran,Weightlifting
+0.4,0.1,0.5,81739,1,27.0,170.0,97.0,2016,1,33.564013840830455,0,Weightlifting Men's Light-Heavyweight,Sohrab Moradi,Iran,Weightlifting
+0.3,0.0,0.7,52602,1,24.0,173.0,69.0,2016,2,23.054562464499316,0,Weightlifting Men's Lightweight,Daniar Ismailow,Turkmenistan,Weightlifting
+0.16666666666666666,0.5,0.33333333333333337,109688,1,22.0,168.0,70.0,2016,1,24.801587301587304,0,Weightlifting Men's Lightweight,Shi Zhiyong,China,Weightlifting
+0.9,0.05,0.05,82465,1,21.0,165.0,64.0,2016,0,23.507805325987142,0,Weightlifting Men's Lightweight,Lus Javier Mosquera Lozano,Colombia,Weightlifting
+0.2,0.4,0.4,28400,1,25.0,172.0,94.0,2016,0,31.77393185505679,0,Weightlifting Men's Middle-Heavyweight,Aurimas Didbalis,Lithuania,Weightlifting
+0.2,0.4,0.4,28400,1,25.0,172.0,94.0,2016,0,31.77393185505679,0,Weightlifting Men's Middle-Heavyweight,Aurimas Didbalis,Lithuania,Weightlifting
+0.2,0.4,0.4,28400,1,25.0,172.0,94.0,2016,0,31.77393185505679,0,Weightlifting Men's Middle-Heavyweight,Aurimas Didbalis,Lithuania,Weightlifting
+0.0,0.7,0.3,98495,1,22.0,176.0,77.0,2016,1,24.857954545454547,0,Weightlifting Men's Middleweight,Nidzhat Aliyevich Rakhimov,Kazakhstan,Weightlifting
+0.0,0.7,0.3,98495,1,22.0,176.0,77.0,2016,1,24.857954545454547,0,Weightlifting Men's Middleweight,Nidzhat Aliyevich Rakhimov,Kazakhstan,Weightlifting
+0.8,0.0,0.2,51727,1,26.0,165.0,77.0,2016,0,28.282828282828287,0,Weightlifting Men's Middleweight,Mohamed Ihab Youssef Ahmed Mahmoud,Egypt,Weightlifting
+0.1,0.1,0.8,80107,1,21.0,180.0,140.0,2016,2,43.20987654320987,0,Weightlifting Men's Super-Heavyweight,Gor Minasyan,Armenia,Weightlifting
+0.1,0.1,0.8,80107,1,21.0,180.0,140.0,2016,2,43.20987654320987,0,Weightlifting Men's Super-Heavyweight,Gor Minasyan,Armenia,Weightlifting
+0.8,0.0,0.2,122746,1,31.0,182.0,130.0,2016,0,39.24646781789639,0,Weightlifting Men's Super-Heavyweight,Irak'li Turmanidze,Georgia,Weightlifting
+0.2,0.1,0.7,1301,0,21.0,147.0,47.0,2016,2,21.75019667731038,0,Weightlifting Women's Flyweight,Sri Wahyuni Agustiani,Indonesia,Weightlifting
+0.2,0.7,0.1,118369,0,21.0,154.0,48.0,2016,1,20.23950075898128,0,Weightlifting Women's Flyweight,Sopita Tanasan,Thailand,Weightlifting
+0.2,0.1,0.7,1301,0,21.0,147.0,47.0,2016,2,21.75019667731038,0,Weightlifting Women's Flyweight,Sri Wahyuni Agustiani,Indonesia,Weightlifting
+0.0,0.1,0.9,84737,0,20.0,165.0,76.0,2016,2,27.915518824609737,0,Weightlifting Women's Heavyweight,Darya Sergeyevna Naumova,Belarus,Weightlifting
+0.0,0.1,0.9,84737,0,20.0,165.0,76.0,2016,2,27.915518824609737,0,Weightlifting Women's Heavyweight,Darya Sergeyevna Naumova,Belarus,Weightlifting
+0.8,0.1,0.1,123953,0,31.0,169.0,75.0,2016,0,26.25958474843318,0,Weightlifting Women's Heavyweight,Lidia Valentn Prez,Spain,Weightlifting
+0.3,0.1,0.6,134691,0,22.0,155.0,69.0,2016,2,28.720083246618103,0,Weightlifting Women's Light-Heavyweight,Zhazira Abdrakhmanovna Zhapparkul,Kazakhstan,Weightlifting
+0.5,0.4,0.1,132003,0,24.0,163.0,69.0,2016,1,25.970115548195267,0,Weightlifting Women's Light-Heavyweight,Xiang Yanmei,China,Weightlifting
+0.7,0.3,0.0,104990,0,18.0,155.0,58.0,2016,0,24.141519250780437,0,Weightlifting Women's Light-Heavyweight,Sara Ahmed Samir,Egypt,Weightlifting
+0.2,0.0,0.8,28251,0,25.0,149.0,53.0,2016,2,23.872798522589072,0,Weightlifting Women's Lightweight,Hidilyn Diaz,Philippines,Weightlifting
+0.4,0.6,0.0,114059,0,21.0,155.0,58.0,2016,1,24.141519250780437,0,Weightlifting Women's Lightweight,Sukanya Srisurat,Thailand,Weightlifting
+0.4,0.6,0.0,114059,0,21.0,155.0,58.0,2016,1,24.141519250780437,0,Weightlifting Women's Lightweight,Sukanya Srisurat,Thailand,Weightlifting
+0.2,0.2,0.6,20957,0,22.0,159.0,63.0,2016,2,24.91990032039872,0,Weightlifting Women's Middleweight,Choe Hyo-Sim,North Korea,Weightlifting
+0.2,0.6,0.2,27574,0,23.0,159.0,63.0,2016,1,24.91990032039872,0,Weightlifting Women's Middleweight,Deng Wei,China,Weightlifting
+0.6,0.3,0.1,41859,0,23.0,160.0,63.0,2016,0,24.609375,0,Weightlifting Women's Middleweight,Karina Khavazhevna Goricheva,Kazakhstan,Weightlifting
+0.3,0.1,0.6,60110,0,23.0,170.0,100.0,2016,2,34.602076124567475,0,Weightlifting Women's Super-Heavyweight,Kim Kuk-Hyang,North Korea,Weightlifting
+0.1,0.9,0.0,78716,0,27.0,173.0,123.0,2016,1,41.09726352367269,0,Weightlifting Women's Super-Heavyweight,Meng Suping,China,Weightlifting
+0.9,0.0,0.1,101488,0,28.0,178.0,141.0,2016,0,44.50195682363338,0,Weightlifting Women's Super-Heavyweight,Sarah Elizabeth Robles,United States,Weightlifting
+0.4,0.0,0.6,48505,1,20.0,163.0,63.0,2016,2,23.711844630960897,0,"Wrestling Men's Featherweight, Freestyle",Rei Higuchi,Japan,Wrestling
+0.1,0.6,0.3,98343,1,27.0,165.0,62.0,2016,0,22.77318640955005,0,"Wrestling Men's Featherweight, Freestyle",Hassan Sabzali Rahimi,Iran,Wrestling
+0.9,0.1,0.0,70766,1,25.0,168.0,65.0,2016,0,23.030045351473927,0,"Wrestling Men's Featherweight, Freestyle",Hac liyev,Azerbaijan,Wrestling
+0.1,0.2,0.7,89927,1,22.0,165.0,65.0,2016,2,23.875114784205696,0,"Wrestling Men's Featherweight, Greco-Roman",Shinobu Ota,Japan,Wrestling
+0.5716666666666665,0.42833333333333334,0.0,13623,1,24.0,160.0,59.0,2016,1,23.046875,0,"Wrestling Men's Featherweight, Greco-Roman",Ismael Borrero Molina,Cuba,Wrestling
+0.5716666666666665,0.42833333333333334,0.0,13623,1,24.0,160.0,59.0,2016,1,23.046875,0,"Wrestling Men's Featherweight, Greco-Roman",Ismael Borrero Molina,Cuba,Wrestling
+0.1,0.5,0.4,112593,1,20.0,180.0,102.0,2016,1,31.48148148148148,0,"Wrestling Men's Heavyweight, Freestyle",Kyle Frederick Snyder,United States,Wrestling
+0.1,0.5,0.4,112593,1,20.0,180.0,102.0,2016,1,31.48148148148148,0,"Wrestling Men's Heavyweight, Freestyle",Kyle Frederick Snyder,United States,Wrestling
+0.9,0.0,0.1,105802,1,31.0,188.0,100.0,2016,0,28.293345405160707,0,"Wrestling Men's Heavyweight, Freestyle",Albert Saritov,Romania,Wrestling
+0.2,0.1,0.7,72126,1,26.0,190.0,98.0,2016,2,27.14681440443213,0,"Wrestling Men's Heavyweight, Greco-Roman",Yasmany Daniel Lugo Cabrera,Cuba,Wrestling
+0.8,0.1,0.1,51818,1,30.0,180.0,98.0,2016,0,30.24691358024691,0,"Wrestling Men's Heavyweight, Greco-Roman",Cenk ldem,Turkey,Wrestling
+0.8,0.1,0.1,51818,1,30.0,180.0,98.0,2016,0,30.24691358024691,0,"Wrestling Men's Heavyweight, Greco-Roman",Cenk ldem,Turkey,Wrestling
+0.3,0.1,0.6,132665,1,26.0,179.0,86.0,2016,2,26.840610467838083,0,"Wrestling Men's Light-Heavyweight, Freestyle",Selim Yaar,Turkey,Wrestling
+0.1,0.8,0.1,104166,1,20.0,177.0,86.0,2016,1,27.4506048708864,0,"Wrestling Men's Light-Heavyweight, Freestyle",Abdul-Rashid Bulayevich Sadulayev,Russia,Wrestling
+0.3,0.1,0.6,132665,1,26.0,179.0,86.0,2016,2,26.840610467838083,0,"Wrestling Men's Light-Heavyweight, Freestyle",Selim Yaar,Turkey,Wrestling
+0.2,0.1,0.7,19586,1,23.0,174.0,85.0,2016,1,28.075042938300964,0,"Wrestling Men's Light-Heavyweight, Greco-Roman",Davit Gochayevich Chakvetadze,Russia,Wrestling
+0.6,0.275,0.125,64636,1,21.0,184.0,90.0,2016,0,26.583175803402646,0,"Wrestling Men's Light-Heavyweight, Greco-Roman",Denis Maksymilian Kudla,Germany,Wrestling
+0.6,0.1,0.3,38258,1,26.0,176.0,91.0,2016,0,29.3775826446281,0,"Wrestling Men's Light-Heavyweight, Greco-Roman",Dzhavid Shakirovich Gamzatov,Belarus,Wrestling
+0.8,0.1,0.1,10425,1,33.0,167.0,60.0,2016,0,21.513858510523864,0,"Wrestling Men's Lightweight, Greco-Roman",Stig Andr Berge,Norway,Wrestling
+0.4,0.5,0.1,114644,1,30.0,170.0,66.0,2016,1,22.837370242214536,0,"Wrestling Men's Lightweight, Greco-Roman",Davor tefanek,Serbia and Montenegro,Wrestling
+0.8,0.1,0.1,10425,1,33.0,167.0,60.0,2016,0,21.513858510523864,0,"Wrestling Men's Lightweight, Greco-Roman",Stig Andr Berge,Norway,Wrestling
+0.1,0.2,0.7,39312,1,29.0,173.0,74.0,2016,2,24.72518293294129,0,"Wrestling Men's Middleweight, Freestyle",Aniuar Borisovich Geduyev,Russia,Wrestling
+0.1,0.2,0.7,39312,1,29.0,173.0,74.0,2016,2,24.72518293294129,0,"Wrestling Men's Middleweight, Freestyle",Aniuar Borisovich Geduyev,Russia,Wrestling
+0.9,0.0,0.1,27495,1,25.0,170.0,74.0,2016,0,25.60553633217993,0,"Wrestling Men's Middleweight, Freestyle",Soner Demirta,Turkey,Wrestling
+0.15,0.6,0.25,73264,1,31.0,177.0,80.0,2016,2,25.53544639152223,0,"Wrestling Men's Middleweight, Greco-Roman",Mark Overgaard Madsen,Denmark,Wrestling
+0.15,0.6,0.25,73264,1,31.0,177.0,80.0,2016,2,25.53544639152223,0,"Wrestling Men's Middleweight, Greco-Roman",Mark Overgaard Madsen,Denmark,Wrestling
+0.15,0.6,0.25,73264,1,31.0,177.0,80.0,2016,2,25.53544639152223,0,"Wrestling Men's Middleweight, Greco-Roman",Mark Overgaard Madsen,Denmark,Wrestling
+0.1,0.7,0.2,1634,1,25.0,192.0,125.0,2016,1,33.90842013888889,0,"Wrestling Men's Super-Heavyweight, Freestyle",Taha Akgl,Turkey,Wrestling
+0.1,0.7,0.2,1634,1,25.0,192.0,125.0,2016,1,33.90842013888889,0,"Wrestling Men's Super-Heavyweight, Freestyle",Taha Akgl,Turkey,Wrestling
+0.9,0.1,0.0,94043,1,22.0,198.0,125.0,2016,0,31.88450158147128,0,"Wrestling Men's Super-Heavyweight, Freestyle",Geno Petriashvili,Georgia,Wrestling
+0.7,0.1,0.2,108579,1,20.0,187.0,130.0,2016,0,37.17578426606422,0,"Wrestling Men's Super-Heavyweight, Greco-Roman",Sergey Viktorovich Semyonov,Russia,Wrestling
+0.7,0.1,0.2,108579,1,20.0,187.0,130.0,2016,0,37.17578426606422,0,"Wrestling Men's Super-Heavyweight, Greco-Roman",Sergey Viktorovich Semyonov,Russia,Wrestling
+0.8,0.0,0.2,114079,1,27.0,192.0,130.0,2016,0,35.26475694444444,0,"Wrestling Men's Super-Heavyweight, Greco-Roman",Sabah riti,Azerbaijan,Wrestling
+0.75,0.05,0.2,19643,1,24.0,172.0,65.0,2016,0,21.97133585722012,0,"Wrestling Men's Welterweight, Freestyle",Frank Chamizo Marquez,Italy,Wrestling
+0.1,0.9,0.0,98692,1,25.0,170.0,65.0,2016,1,22.49134948096886,0,"Wrestling Men's Welterweight, Freestyle",Soslan Lyudvikovich Ramonov,Russia,Wrestling
+0.8,0.0,0.2,50552,1,26.0,170.0,74.0,2016,0,25.60553633217993,0,"Wrestling Men's Welterweight, Freestyle",Cbrayl Hsnov,Azerbaijan,Wrestling
+0.2,0.1,0.7,5414,1,27.0,166.0,67.0,2016,2,24.31412396574249,0,"Wrestling Men's Welterweight, Greco-Roman",Migran Arutyunyan,Armenia,Wrestling
+0.26666666666666666,0.5,0.23333333333333334,24313,1,25.0,171.0,66.0,2016,0,22.571047501795427,0,"Wrestling Men's Welterweight, Greco-Roman",Rsul unayev,Azerbaijan,Wrestling
+0.9,0.0,0.1,250,1,26.0,170.0,80.0,2016,0,27.68166089965398,0,"Wrestling Men's Welterweight, Greco-Roman",Saeid Morad Abdevali,Iran,Wrestling
+0.02,0.9800000000000001,0.0,75285,0,24.0,163.0,57.0,2016,1,21.453573713726524,0,"Wrestling Women's Featherweight, Freestyle",Helen Louise Maroulis,United States,Wrestling
+0.02,0.9800000000000001,0.0,75285,0,24.0,163.0,57.0,2016,1,21.453573713726524,0,"Wrestling Women's Featherweight, Freestyle",Helen Louise Maroulis,United States,Wrestling
+0.02,0.9800000000000001,0.0,75285,0,24.0,163.0,57.0,2016,1,21.453573713726524,0,"Wrestling Women's Featherweight, Freestyle",Helen Louise Maroulis,United States,Wrestling
+0.25,0.55,0.2,76735,0,26.0,164.0,56.0,2016,0,20.820939916716245,0,"Wrestling Women's Flyweight, Freestyle",Sofia Magdalena Mattsson,Sweden,Wrestling
+0.2,0.8,0.0,121345,0,22.0,152.0,48.0,2016,1,20.775623268698062,0,"Wrestling Women's Flyweight, Freestyle",Eri Tosaka,Japan,Wrestling
+0.8,0.2,0.0,132603,0,21.0,151.0,48.0,2016,0,21.05170825840972,0,"Wrestling Women's Flyweight, Freestyle",Elitsa Atanasova Yankova,Bulgaria,Wrestling
+0.1,0.2,0.7,16302,0,29.0,174.0,75.0,2016,0,24.77209671026556,0,"Wrestling Women's Heavyweight, Freestyle",Yekaterina Borisovna Bukina,Russia,Wrestling
+0.2,0.6,0.2,130186,0,27.0,175.0,75.0,2016,1,24.489795918367346,0,"Wrestling Women's Heavyweight, Freestyle",Erica Elizabeth Wiebe,Canada,Wrestling
+0.8,0.1,0.1,36802,0,29.0,169.0,73.0,2016,0,25.55932915514163,0,"Wrestling Women's Heavyweight, Freestyle",Anna Jenny Eva Maria Fransson (Magnusson-),Sweden,Wrestling
+0.2,0.6,0.2,29618,0,21.0,159.0,69.0,2016,1,27.29322416043669,0,"Wrestling Women's Light-Heavyweight, Freestyle",Sara Dosho,Japan,Wrestling
+0.2,0.6,0.2,29618,0,21.0,159.0,69.0,2016,1,27.29322416043669,0,"Wrestling Women's Light-Heavyweight, Freestyle",Sara Dosho,Japan,Wrestling
+0.7,0.2,0.1,117302,0,24.0,172.0,69.0,2016,0,23.323418063818284,0,"Wrestling Women's Light-Heavyweight, Freestyle",Elmira Anuarbekovna Syzdykova,Kazakhstan,Wrestling
+0.0,0.4,0.6,134776,0,23.0,164.0,58.0,2016,2,21.564544913741823,0,"Wrestling Women's Lightweight, Freestyle",Valeriya Sergeyevna Zholobova-Koblova,Russia,Wrestling
+0.0,0.4,0.6,134776,0,23.0,164.0,58.0,2016,2,21.564544913741823,0,"Wrestling Women's Lightweight, Freestyle",Valeriya Sergeyevna Zholobova-Koblova,Russia,Wrestling
+0.7166666666666666,0.0,0.2833333333333333,111288,0,31.0,160.0,58.0,2016,0,22.65625,0,"Wrestling Women's Lightweight, Freestyle",Nataliya Siniin,Ukraine,Wrestling
+0.2,0.1,0.7,74264,0,23.0,163.0,65.0,2016,2,24.46460160337235,0,"Wrestling Women's Middleweight, Freestyle",Mariya Ruslanovna Mamoshuk,Belarus,Wrestling
+0.6,0.2,0.2,58163,0,21.0,160.0,61.0,2016,1,23.828125,0,"Wrestling Women's Middleweight, Freestyle",Risako Kawai,Japan,Wrestling
+0.9,0.0,0.1,79362,0,36.0,167.0,63.0,2016,0,22.58955143605005,0,"Wrestling Women's Middleweight, Freestyle",Monika Ewa Michalik (Rogien-),Poland,Wrestling
