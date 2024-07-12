@@ -9,3 +9,4 @@ function showContent(boxId) {
         selectedBox.style.display = 'flex';
     }
 }
+

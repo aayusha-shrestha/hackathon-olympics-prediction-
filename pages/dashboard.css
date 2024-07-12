@@ -76,6 +76,7 @@ h4 {
 
 .content-box_wrap {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   margin-left: 80px;
 }
@@ -85,5 +86,7 @@ h4 {
 }
 
 .content-img img {
-  width: 550px;
+  width: 800px;
 }
+
+
