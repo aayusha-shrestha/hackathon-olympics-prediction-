@@ -13,9 +13,11 @@
 		<!-- side menu -->
 		<nav class='navigation'>
 			<ul class="navigation_menu">
+				<a href="#" onclick="showContent('box1')"><img src="images/logo.png" style="width:160px"></a>
 				<li class="side-nav"><a href="#" onclick="showContent('box1')"><i class="fa-solid fa-house"></i> 2024</a></li>
 				<li class="side-nav"><a href="#" onclick="showContent('box2')"><i class="fa-regular fa-chart-bar"></i> EDA</a></li>
-				<li class="side-nav"><a href="#" onclick="showContent('box3')"><i class="fa-solid fa-wand-magic-sparkles"></i> Our Insights</a></li>
+				<li class="side-nav"><a href="#" onclick="showContent('box3')"><i class="fa-solid fa-database"></i> Model/Approach1</a></li>
+				<li class="side-nav"><a href="#" onclick="showContent('box4')"><i class="fa-solid fa-database"></i> Model/Approach2</a></li>
 			</ul>
 		</nav>
 		<!-- side menu ends -->
@@ -23,9 +25,8 @@
 		<div class="main-content">
 
 			<!-- 2024 starts -->
-			<div id="box1" class="content-box">
-				<div class="content-box_wrap" style="margin-top:33rem">
-					<!-- row 1 -->
+			<div id="box1" class="content-box" style="display:flex">
+				<div class="content-box_wrap" style="margin-top:138rem">
 					<div class = "content-img">
 						<h3>Total Medals Over the Years with 2024 Forecast</h3>
 						<img src="images/ts3.png">
@@ -34,10 +35,29 @@
 						<h3>Medals Over The Years with 2024 Forecast</h3>
 						<img src="images/ts4.png">
 					</div>
-					<!-- row 2 -->
 					<div class = "content-img">
 						<h3>Athletes, Events, and Sports </h3>
 						<img src="images/ts5.png">
+					</div>
+					<div class = "content-img">
+						<h3>Men and Women Over the Years with 2024 Forecast </h3>
+						<img src="images/timeseries_gender.png">
+					</div>
+					<div class = "content-img">
+						<h3>Predicted Medals by Sport </h3>
+						<img src="images/2024i.png">
+					</div>
+					<div class = "content-img">
+						<h3>Age vs Predicted Medal by Sex </h3>
+						<img src="images/2024ii.png">
+					</div>
+					<div class = "content-img">
+						<h3>Age vs Height by Predicted Medal</h3>
+						<img src="images/2024iii.png">
+					</div>
+					<div class = "content-img">
+						<h3>Weight Distribution by Predicted Medal </h3>
+						<img src="images/2024iv.png">
 					</div>
 				</div>
 			</div>
@@ -86,9 +106,71 @@
 			</div>
 			<!-- EDA ends -->
 
+			<!-- Model 1 starts -->
 			<div id="box3" class="content-box">
-				<p>content</p>
+				<div class="content-box_wrap" style="margin-top:30rem">
+					<h1>Approach 1: Time-series Forecast</h1>
+					<!-- row 1 -->
+					 <div class="overview">
+						<p>
+							Our first approach to forecasting Olympic performance for the Paris 2024 Olympics involved leveraging the Vector Autoregressive (VAR) model to capture the dynamic relationships and dependencies among multiple time series variables, making it ideal for forecasting complex systems like Olympic data.</br></br>
+							
+							The VAR model is a multivariate time series model that extends the autoregressive model by allowing multiple time series variables to influence each other simultaneously. In our context, we utilized historical data spanning several Olympic cycles to predict future medal counts and, the number of male and female athletes across different countries and events.
+						</p>
+					 </div>
+					<div class = "content-img">
+						<h3>Medals (Gold, Silver, Bronze) Over the Years with 2024 Forecast</h3>
+						<img src="images/ts4.png">
+					</div>
+					<div class="overview">
+						<p>
+							To validate our VAR model, we utilized 2021 data to compare our forecasts against actual medal counts. The model's ability to accurately predict medal counts for the United States in 2021 demonstrated its robustness and effectiveness. 
+						</p>
+					</div>
+					<div class = "content-img">
+						<img src="images/ts3.png">
+					</div>
+				</div>
 			</div>
+			<!-- Model 1 Ends -->
+
+			<!-- Model 2 starts -->
+			<div id="box4" class="content-box">
+				<div class="content-box_wrap" style="margin-top:93rem">
+					<h1>Approach 2: Classifier</h1>
+					<!-- row 1 -->
+					 <div class="overview">
+						<p>
+							Our second approach aims to forecast not only whether an athlete will win a medal but also predict the specific type—Gold, Silver, or Bronze—based on a range of influential factors.
+							Our approach utilizes a combination of historical data from previous Olympics and a sophisticated machine learning model. We've structured our model to consider athlete attributes such as age, sex, BMI, and historical performance metrics across various sports and events. Additionally, we incorporated external factors like GDP and population data to capture broader socio-economic influences on athletic performance.</br></br>
+							
+							To understand which factors most significantly influence our predictions, we conducted feature importance analysis. This analysis highlighted that factors such as age, BMI and socio-economic indicators played pivotal roles in determining medal outcomes.
+						</p>
+					 </div>
+					<div class = "content-img">
+						<h3>Feature Importances from Random Forest</h3>
+						<img src="images/model1.png">
+					</div>
+					<div class="overview">
+						<p>
+							Our model achieved an impressive accuracy of <b>89%</b> in predicting the correct medal type across various sports and events. 
+						</p>
+					</div>
+					<div class = "content-img">
+						<img src="images/stats.png">
+					</div>
+					<div class="overview">
+						<p>
+							The confusion matrix below illustrates the model's performance in detail. It visually depicts the distribution of predicted versus actual medal outcomes, providing insights into where our model excels and areas for potential refinement.
+						</p>
+					</div>
+					<div class = "content-img">
+						<h3>Confusion Matrix for Medal Predictions</h3>
+						<img src="images/model2.png">
+					</div>
+				</div>
+			</div>
+			<!-- Model 2 Ends -->
 		</div>
 	</body>
 </html>
